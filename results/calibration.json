@@ -1,0 +1,81 @@
+{
+ "ece_15bin": 0.3087,
+ "reliability_rows": [
+  {
+   "bin": "0.27-0.33",
+   "n": 2,
+   "accuracy": 0.0,
+   "confidence": 0.332
+  },
+  {
+   "bin": "0.33-0.40",
+   "n": 19,
+   "accuracy": 0.316,
+   "confidence": 0.375
+  },
+  {
+   "bin": "0.40-0.47",
+   "n": 42,
+   "accuracy": 0.286,
+   "confidence": 0.438
+  },
+  {
+   "bin": "0.47-0.53",
+   "n": 52,
+   "accuracy": 0.327,
+   "confidence": 0.499
+  },
+  {
+   "bin": "0.53-0.60",
+   "n": 51,
+   "accuracy": 0.216,
+   "confidence": 0.567
+  },
+  {
+   "bin": "0.60-0.67",
+   "n": 48,
+   "accuracy": 0.271,
+   "confidence": 0.631
+  },
+  {
+   "bin": "0.67-0.73",
+   "n": 39,
+   "accuracy": 0.154,
+   "confidence": 0.703
+  },
+  {
+   "bin": "0.73-0.80",
+   "n": 25,
+   "accuracy": 0.52,
+   "confidence": 0.771
+  },
+  {
+   "bin": "0.80-0.87",
+   "n": 32,
+   "accuracy": 0.312,
+   "confidence": 0.834
+  },
+  {
+   "bin": "0.87-0.93",
+   "n": 43,
+   "accuracy": 0.581,
+   "confidence": 0.903
+  },
+  {
+   "bin": "0.93-1.00",
+   "n": 41,
+   "accuracy": 0.707,
+   "confidence": 0.978
+  }
+ ],
+ "mean_confidence": 0.6691,
+ "accuracy": 0.3604,
+ "n_test": 394,
+ "n_test_with_train_twin": 88,
+ "accuracy_clean_subset": 0.2549,
+ "macro_f1_clean_subset": 0.2607,
+ "n_clean_subset": 306,
+ "accuracy_duplicated_subset": 0.7273,
+ "mean_confidence_correct": 0.7328,
+ "mean_confidence_wrong": 0.6332
+}

@@ -1,0 +1,46 @@
+{
+ "training": {
+  "glioma_tumor": {
+   "n": 826,
+   "portrait_share": 0.0,
+   "mean_intensity": 0.139
+  },
+  "meningioma_tumor": {
+   "n": 822,
+   "portrait_share": 0.078,
+   "mean_intensity": 0.18
+  },
+  "no_tumor": {
+   "n": 395,
+   "portrait_share": 0.306,
+   "mean_intensity": 0.232
+  },
+  "pituitary_tumor": {
+   "n": 827,
+   "portrait_share": 0.001,
+   "mean_intensity": 0.193
+  }
+ },
+ "testing": {
+  "glioma_tumor": {
+   "n": 100,
+   "portrait_share": 0.41,
+   "mean_intensity": 0.242
+  },
+  "meningioma_tumor": {
+   "n": 115,
+   "portrait_share": 0.443,
+   "mean_intensity": 0.288
+  },
+  "no_tumor": {
+   "n": 105,
+   "portrait_share": 0.343,
+   "mean_intensity": 0.218
+  },
+  "pituitary_tumor": {
+   "n": 74,
+   "portrait_share": 0.081,
+   "mean_intensity": 0.245
+  }
+ }
+}

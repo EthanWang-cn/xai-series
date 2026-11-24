@@ -1,0 +1,5124 @@
+[
+ {
+  "file": "image(1).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(1).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.09514516592025757,
+   "meningioma_tumor": 0.40912336111068726,
+   "no_tumor": 0.27498817443847656,
+   "pituitary_tumor": 0.2207433432340622
+  }
+ },
+ {
+  "file": "image(10).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(10).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.7779443264007568,
+   "meningioma_tumor": 0.16055463254451752,
+   "no_tumor": 0.05000238120555878,
+   "pituitary_tumor": 0.01149858720600605
+  }
+ },
+ {
+  "file": "image(100).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(100).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.017902055755257607,
+   "meningioma_tumor": 0.38962501287460327,
+   "no_tumor": 0.5740171074867249,
+   "pituitary_tumor": 0.018455853685736656
+  }
+ },
+ {
+  "file": "image(11).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(11).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.02525080367922783,
+   "meningioma_tumor": 0.3623170554637909,
+   "no_tumor": 0.3998469114303589,
+   "pituitary_tumor": 0.21258525550365448
+  }
+ },
+ {
+  "file": "image(12).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(12).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.02525080367922783,
+   "meningioma_tumor": 0.3623170554637909,
+   "no_tumor": 0.3998469114303589,
+   "pituitary_tumor": 0.21258525550365448
+  }
+ },
+ {
+  "file": "image(13).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(13).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.1069132462143898,
+   "meningioma_tumor": 0.3933359384536743,
+   "no_tumor": 0.03464236110448837,
+   "pituitary_tumor": 0.4651084244251251
+  }
+ },
+ {
+  "file": "image(14).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(14).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007713609375059605,
+   "meningioma_tumor": 0.30953729152679443,
+   "no_tumor": 0.6345181465148926,
+   "pituitary_tumor": 0.04823094978928566
+  }
+ },
+ {
+  "file": "image(15).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(15).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00046717002987861633,
+   "meningioma_tumor": 0.13208408653736115,
+   "no_tumor": 0.8667504191398621,
+   "pituitary_tumor": 0.0006984132342040539
+  }
+ },
+ {
+  "file": "image(16).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(16).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0009847013279795647,
+   "meningioma_tumor": 0.1992369145154953,
+   "no_tumor": 0.7649640440940857,
+   "pituitary_tumor": 0.034814245998859406
+  }
+ },
+ {
+  "file": "image(17).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(17).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007479734718799591,
+   "meningioma_tumor": 0.3285253643989563,
+   "no_tumor": 0.6354025602340698,
+   "pituitary_tumor": 0.028592344373464584
+  }
+ },
+ {
+  "file": "image(18).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(18).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 2.8948687031515874e-05,
+   "meningioma_tumor": 0.012358149513602257,
+   "no_tumor": 0.9876078963279724,
+   "pituitary_tumor": 5.07926915815915e-06
+  }
+ },
+ {
+  "file": "image(19).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(19).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.004922955296933651,
+   "meningioma_tumor": 0.27474191784858704,
+   "no_tumor": 0.699350893497467,
+   "pituitary_tumor": 0.020984193310141563
+  }
+ },
+ {
+  "file": "image(2).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(2).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.12196733057498932,
+   "meningioma_tumor": 0.36238017678260803,
+   "no_tumor": 0.19786319136619568,
+   "pituitary_tumor": 0.3177892863750458
+  }
+ },
+ {
+  "file": "image(20).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(20).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.011570311151444912,
+   "meningioma_tumor": 0.12697087228298187,
+   "no_tumor": 0.034719277173280716,
+   "pituitary_tumor": 0.8267395496368408
+  }
+ },
+ {
+  "file": "image(21).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(21).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.01579868420958519,
+   "meningioma_tumor": 0.06740701198577881,
+   "no_tumor": 0.0056871226988732815,
+   "pituitary_tumor": 0.9111071228981018
+  }
+ },
+ {
+  "file": "image(22).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(22).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.01870664954185486,
+   "meningioma_tumor": 0.1912519335746765,
+   "no_tumor": 0.19173914194107056,
+   "pituitary_tumor": 0.5983023047447205
+  }
+ },
+ {
+  "file": "image(23).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(23).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.030650487169623375,
+   "meningioma_tumor": 0.4617244005203247,
+   "no_tumor": 0.39294612407684326,
+   "pituitary_tumor": 0.11467905342578888
+  }
+ },
+ {
+  "file": "image(24).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(24).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0008240895112976432,
+   "meningioma_tumor": 0.05177219584584236,
+   "no_tumor": 0.006945260334759951,
+   "pituitary_tumor": 0.9404584169387817
+  }
+ },
+ {
+  "file": "image(25).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(25).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00040529758553020656,
+   "meningioma_tumor": 0.16762040555477142,
+   "no_tumor": 0.8195083737373352,
+   "pituitary_tumor": 0.012465907260775566
+  }
+ },
+ {
+  "file": "image(26).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(26).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.3229570686817169,
+   "meningioma_tumor": 0.39525309205055237,
+   "no_tumor": 0.28048181533813477,
+   "pituitary_tumor": 0.0013079680502414703
+  }
+ },
+ {
+  "file": "image(27).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(27).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 2.1328030470613157e-06,
+   "meningioma_tumor": 0.01290856208652258,
+   "no_tumor": 0.9870813488960266,
+   "pituitary_tumor": 8.040967259148601e-06
+  }
+ },
+ {
+  "file": "image(28).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(28).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0008886621217243373,
+   "meningioma_tumor": 0.17142023146152496,
+   "no_tumor": 0.3239299952983856,
+   "pituitary_tumor": 0.5037611126899719
+  }
+ },
+ {
+  "file": "image(29).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(29).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0008886621217243373,
+   "meningioma_tumor": 0.17142023146152496,
+   "no_tumor": 0.3239299952983856,
+   "pituitary_tumor": 0.5037611126899719
+  }
+ },
+ {
+  "file": "image(3).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(3).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 1.9665290892589837e-05,
+   "meningioma_tumor": 0.02342001162469387,
+   "no_tumor": 0.9765456318855286,
+   "pituitary_tumor": 1.4632775673817378e-05
+  }
+ },
+ {
+  "file": "image(30).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(30).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0019066202221438289,
+   "meningioma_tumor": 0.2544318437576294,
+   "no_tumor": 0.7408183813095093,
+   "pituitary_tumor": 0.0028431243263185024
+  }
+ },
+ {
+  "file": "image(31).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(31).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.1354905217885971,
+   "meningioma_tumor": 0.25064554810523987,
+   "no_tumor": 0.5777170062065125,
+   "pituitary_tumor": 0.03614688292145729
+  }
+ },
+ {
+  "file": "image(32).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(32).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.6621728539466858,
+   "meningioma_tumor": 0.21341194212436676,
+   "no_tumor": 0.12156640738248825,
+   "pituitary_tumor": 0.0028488324023783207
+  }
+ },
+ {
+  "file": "image(33).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(33).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.019172504544258118,
+   "meningioma_tumor": 0.3607267737388611,
+   "no_tumor": 0.572850227355957,
+   "pituitary_tumor": 0.04725047945976257
+  }
+ },
+ {
+  "file": "image(34).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(34).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.047407928854227066,
+   "meningioma_tumor": 0.41640618443489075,
+   "no_tumor": 0.49841922521591187,
+   "pituitary_tumor": 0.03776663914322853
+  }
+ },
+ {
+  "file": "image(35).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(35).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00017319571634288877,
+   "meningioma_tumor": 0.016472354531288147,
+   "no_tumor": 0.9833523035049438,
+   "pituitary_tumor": 2.0773081814695615e-06
+  }
+ },
+ {
+  "file": "image(36).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(36).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.019138550385832787,
+   "meningioma_tumor": 0.25349655747413635,
+   "no_tumor": 0.013063479214906693,
+   "pituitary_tumor": 0.714301347732544
+  }
+ },
+ {
+  "file": "image(37).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(37).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.026284970343112946,
+   "meningioma_tumor": 0.14675520360469818,
+   "no_tumor": 0.8267286419868469,
+   "pituitary_tumor": 0.00023122534912545234
+  }
+ },
+ {
+  "file": "image(38).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(38).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007042122073471546,
+   "meningioma_tumor": 0.220321923494339,
+   "no_tumor": 0.5749449729919434,
+   "pituitary_tumor": 0.197690948843956
+  }
+ },
+ {
+  "file": "image(39).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(39).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.08584409952163696,
+   "meningioma_tumor": 0.18793301284313202,
+   "no_tumor": 0.12110396474599838,
+   "pituitary_tumor": 0.6051189303398132
+  }
+ },
+ {
+  "file": "image(4).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(4).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.8693405985832214,
+   "meningioma_tumor": 0.11243067681789398,
+   "no_tumor": 0.01810307800769806,
+   "pituitary_tumor": 0.0001256332907360047
+  }
+ },
+ {
+  "file": "image(40).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(40).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0500769279897213,
+   "meningioma_tumor": 0.12656322121620178,
+   "no_tumor": 0.005713115446269512,
+   "pituitary_tumor": 0.8176468014717102
+  }
+ },
+ {
+  "file": "image(41).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(41).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.18878227472305298,
+   "meningioma_tumor": 0.5569704174995422,
+   "no_tumor": 0.2541297376155853,
+   "pituitary_tumor": 0.00011752689897548407
+  }
+ },
+ {
+  "file": "image(42).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(42).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00020461308304220438,
+   "meningioma_tumor": 0.18154215812683105,
+   "no_tumor": 0.8049712181091309,
+   "pituitary_tumor": 0.013281987980008125
+  }
+ },
+ {
+  "file": "image(43).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(43).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.32755210995674133,
+   "meningioma_tumor": 0.48950573801994324,
+   "no_tumor": 0.018302250653505325,
+   "pituitary_tumor": 0.1646398901939392
+  }
+ },
+ {
+  "file": "image(44).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(44).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007021850906312466,
+   "meningioma_tumor": 0.06008514016866684,
+   "no_tumor": 0.9328377842903137,
+   "pituitary_tumor": 5.525520464289002e-05
+  }
+ },
+ {
+  "file": "image(45).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(45).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.9793773293495178,
+   "meningioma_tumor": 0.0050165848806500435,
+   "no_tumor": 0.015553734265267849,
+   "pituitary_tumor": 5.225572022027336e-05
+  }
+ },
+ {
+  "file": "image(46).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(46).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.1354905217885971,
+   "meningioma_tumor": 0.25064554810523987,
+   "no_tumor": 0.5777170062065125,
+   "pituitary_tumor": 0.03614688292145729
+  }
+ },
+ {
+  "file": "image(47).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(47).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.016259241849184036,
+   "meningioma_tumor": 0.36156558990478516,
+   "no_tumor": 0.6005582213401794,
+   "pituitary_tumor": 0.02161695621907711
+  }
+ },
+ {
+  "file": "image(48).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(48).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.013956376351416111,
+   "meningioma_tumor": 0.5959714651107788,
+   "no_tumor": 0.35872021317481995,
+   "pituitary_tumor": 0.0313519649207592
+  }
+ },
+ {
+  "file": "image(49).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(49).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.004329066723585129,
+   "meningioma_tumor": 0.14339423179626465,
+   "no_tumor": 0.8517897129058838,
+   "pituitary_tumor": 0.0004869914846494794
+  }
+ },
+ {
+  "file": "image(5).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(5).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.34171974658966064,
+   "meningioma_tumor": 0.47478586435317993,
+   "no_tumor": 0.14031922817230225,
+   "pituitary_tumor": 0.04317518323659897
+  }
+ },
+ {
+  "file": "image(50).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(50).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.040569256991147995,
+   "meningioma_tumor": 0.3606187701225281,
+   "no_tumor": 0.562691867351532,
+   "pituitary_tumor": 0.036120105534791946
+  }
+ },
+ {
+  "file": "image(51).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(51).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0030077986884862185,
+   "meningioma_tumor": 0.24325613677501678,
+   "no_tumor": 0.7492592334747314,
+   "pituitary_tumor": 0.004476848058402538
+  }
+ },
+ {
+  "file": "image(52).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(52).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.05736469104886055,
+   "meningioma_tumor": 0.3184693157672882,
+   "no_tumor": 0.15141625702381134,
+   "pituitary_tumor": 0.4727497100830078
+  }
+ },
+ {
+  "file": "image(53).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(53).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0028067047242075205,
+   "meningioma_tumor": 0.10164019465446472,
+   "no_tumor": 0.8939195275306702,
+   "pituitary_tumor": 0.001633529900573194
+  }
+ },
+ {
+  "file": "image(54).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(54).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.005285064224153757,
+   "meningioma_tumor": 0.29154929518699646,
+   "no_tumor": 0.6331344842910767,
+   "pituitary_tumor": 0.07003120332956314
+  }
+ },
+ {
+  "file": "image(55).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(55).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.040569256991147995,
+   "meningioma_tumor": 0.3606187701225281,
+   "no_tumor": 0.562691867351532,
+   "pituitary_tumor": 0.036120105534791946
+  }
+ },
+ {
+  "file": "image(56).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(56).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.017924122512340546,
+   "meningioma_tumor": 0.1422012597322464,
+   "no_tumor": 0.8398378491401672,
+   "pituitary_tumor": 3.677169297588989e-05
+  }
+ },
+ {
+  "file": "image(57).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(57).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.07560513913631439,
+   "meningioma_tumor": 0.5660965442657471,
+   "no_tumor": 0.32133153080940247,
+   "pituitary_tumor": 0.03696676343679428
+  }
+ },
+ {
+  "file": "image(58).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(58).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00016932710423134267,
+   "meningioma_tumor": 0.1391061395406723,
+   "no_tumor": 0.8537386655807495,
+   "pituitary_tumor": 0.006985796615481377
+  }
+ },
+ {
+  "file": "image(59).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(59).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.2273254096508026,
+   "meningioma_tumor": 0.6444544792175293,
+   "no_tumor": 0.12159844487905502,
+   "pituitary_tumor": 0.006621699780225754
+  }
+ },
+ {
+  "file": "image(6).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(6).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 1.9665290892589837e-05,
+   "meningioma_tumor": 0.02342001162469387,
+   "no_tumor": 0.9765456318855286,
+   "pituitary_tumor": 1.4632775673817378e-05
+  }
+ },
+ {
+  "file": "image(60).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(60).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.4425756633281708,
+   "meningioma_tumor": 0.5361031889915466,
+   "no_tumor": 0.019589096307754517,
+   "pituitary_tumor": 0.0017320489278063178
+  }
+ },
+ {
+  "file": "image(61).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(61).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.27619099617004395,
+   "meningioma_tumor": 0.7037875056266785,
+   "no_tumor": 0.019550412893295288,
+   "pituitary_tumor": 0.00047107000136747956
+  }
+ },
+ {
+  "file": "image(62).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(62).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.14878128468990326,
+   "meningioma_tumor": 0.8334771990776062,
+   "no_tumor": 0.017124101519584656,
+   "pituitary_tumor": 0.0006173974834382534
+  }
+ },
+ {
+  "file": "image(63).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(63).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.25018349289894104,
+   "meningioma_tumor": 0.7080889940261841,
+   "no_tumor": 0.030087079852819443,
+   "pituitary_tumor": 0.011640416458249092
+  }
+ },
+ {
+  "file": "image(64).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(64).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.2718605399131775,
+   "meningioma_tumor": 0.7183454036712646,
+   "no_tumor": 0.007846593856811523,
+   "pituitary_tumor": 0.001947482000105083
+  }
+ },
+ {
+  "file": "image(65).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(65).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.2718605399131775,
+   "meningioma_tumor": 0.7183454036712646,
+   "no_tumor": 0.007846593856811523,
+   "pituitary_tumor": 0.001947482000105083
+  }
+ },
+ {
+  "file": "image(66).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(66).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.8675441741943359,
+   "meningioma_tumor": 0.011482848785817623,
+   "no_tumor": 0.12096000462770462,
+   "pituitary_tumor": 1.2980171959497966e-05
+  }
+ },
+ {
+  "file": "image(67).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(67).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.9696680307388306,
+   "meningioma_tumor": 0.02087903581559658,
+   "no_tumor": 0.009411313571035862,
+   "pituitary_tumor": 4.163654739386402e-05
+  }
+ },
+ {
+  "file": "image(68).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(68).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.9596067667007446,
+   "meningioma_tumor": 0.029236070811748505,
+   "no_tumor": 0.010929463431239128,
+   "pituitary_tumor": 0.00022771353542339057
+  }
+ },
+ {
+  "file": "image(69).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(69).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.9945587515830994,
+   "meningioma_tumor": 0.004680954851210117,
+   "no_tumor": 0.000745899451430887,
+   "pituitary_tumor": 1.4315764929051511e-05
+  }
+ },
+ {
+  "file": "image(7).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(7).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.8759070038795471,
+   "meningioma_tumor": 0.11043279618024826,
+   "no_tumor": 0.013431686908006668,
+   "pituitary_tumor": 0.00022843352053314447
+  }
+ },
+ {
+  "file": "image(70).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(70).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.9863207936286926,
+   "meningioma_tumor": 0.011403437703847885,
+   "no_tumor": 0.0021965340711176395,
+   "pituitary_tumor": 7.925898535177112e-05
+  }
+ },
+ {
+  "file": "image(71).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(71).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.9863207936286926,
+   "meningioma_tumor": 0.011403437703847885,
+   "no_tumor": 0.0021965340711176395,
+   "pituitary_tumor": 7.925898535177112e-05
+  }
+ },
+ {
+  "file": "image(72).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(72).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.8927524089813232,
+   "meningioma_tumor": 0.0925220474600792,
+   "no_tumor": 0.014266828075051308,
+   "pituitary_tumor": 0.000458692607935518
+  }
+ },
+ {
+  "file": "image(73).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(73).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.630681037902832,
+   "meningioma_tumor": 0.32904258370399475,
+   "no_tumor": 0.03992798551917076,
+   "pituitary_tumor": 0.0003483962791506201
+  }
+ },
+ {
+  "file": "image(74).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(74).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.3417082130908966,
+   "meningioma_tumor": 0.5616428852081299,
+   "no_tumor": 0.08469364047050476,
+   "pituitary_tumor": 0.011955262161791325
+  }
+ },
+ {
+  "file": "image(75).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(75).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.40038609504699707,
+   "meningioma_tumor": 0.5182565450668335,
+   "no_tumor": 0.07290259003639221,
+   "pituitary_tumor": 0.008454856462776661
+  }
+ },
+ {
+  "file": "image(76).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(76).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.2739284038543701,
+   "meningioma_tumor": 0.6398563385009766,
+   "no_tumor": 0.06948395073413849,
+   "pituitary_tumor": 0.01673133298754692
+  }
+ },
+ {
+  "file": "image(77).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(77).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.011836275458335876,
+   "meningioma_tumor": 0.31835418939590454,
+   "no_tumor": 0.5009496212005615,
+   "pituitary_tumor": 0.16885991394519806
+  }
+ },
+ {
+  "file": "image(78).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(78).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.3125661015510559,
+   "meningioma_tumor": 0.6126304864883423,
+   "no_tumor": 0.05148318409919739,
+   "pituitary_tumor": 0.023320196196436882
+  }
+ },
+ {
+  "file": "image(79).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(79).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0008886621217243373,
+   "meningioma_tumor": 0.17142023146152496,
+   "no_tumor": 0.3239299952983856,
+   "pituitary_tumor": 0.5037611126899719
+  }
+ },
+ {
+  "file": "image(8).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(8).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0297701396048069,
+   "meningioma_tumor": 0.12232796847820282,
+   "no_tumor": 0.05674520507454872,
+   "pituitary_tumor": 0.7911567091941833
+  }
+ },
+ {
+  "file": "image(80).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(80).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.011836275458335876,
+   "meningioma_tumor": 0.31835418939590454,
+   "no_tumor": 0.5009496212005615,
+   "pituitary_tumor": 0.16885991394519806
+  }
+ },
+ {
+  "file": "image(81).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(81).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.23294596374034882,
+   "meningioma_tumor": 0.32951512932777405,
+   "no_tumor": 0.0788554698228836,
+   "pituitary_tumor": 0.35868340730667114
+  }
+ },
+ {
+  "file": "image(82).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(82).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 2.4954910259111784e-05,
+   "meningioma_tumor": 0.007431213743984699,
+   "no_tumor": 0.9925436973571777,
+   "pituitary_tumor": 1.553538169218882e-07
+  }
+ },
+ {
+  "file": "image(83).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(83).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0002279716863995418,
+   "meningioma_tumor": 0.0718020349740982,
+   "no_tumor": 0.9276919364929199,
+   "pituitary_tumor": 0.0002780185313895345
+  }
+ },
+ {
+  "file": "image(84).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(84).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0019066202221438289,
+   "meningioma_tumor": 0.2544318437576294,
+   "no_tumor": 0.7408183813095093,
+   "pituitary_tumor": 0.0028431243263185024
+  }
+ },
+ {
+  "file": "image(85).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(85).jpg",
+  "label": "glioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.5014808773994446,
+   "meningioma_tumor": 0.24817600846290588,
+   "no_tumor": 0.023773696273565292,
+   "pituitary_tumor": 0.22656935453414917
+  }
+ },
+ {
+  "file": "image(86).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(86).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.006731855683028698,
+   "meningioma_tumor": 0.19988183677196503,
+   "no_tumor": 0.4843863248825073,
+   "pituitary_tumor": 0.30900007486343384
+  }
+ },
+ {
+  "file": "image(87).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(87).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.035758599638938904,
+   "meningioma_tumor": 0.1655379831790924,
+   "no_tumor": 0.19838254153728485,
+   "pituitary_tumor": 0.6003208756446838
+  }
+ },
+ {
+  "file": "image(88).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(88).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0021917226258665323,
+   "meningioma_tumor": 0.014043261297047138,
+   "no_tumor": 0.9837643504142761,
+   "pituitary_tumor": 6.341714424706879e-07
+  }
+ },
+ {
+  "file": "image(89).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(89).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00010673804354155436,
+   "meningioma_tumor": 0.13830293715000153,
+   "no_tumor": 0.859897792339325,
+   "pituitary_tumor": 0.0016924859955906868
+  }
+ },
+ {
+  "file": "image(9).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(9).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.019366370514035225,
+   "meningioma_tumor": 0.3776378035545349,
+   "no_tumor": 0.56507408618927,
+   "pituitary_tumor": 0.03792174533009529
+  }
+ },
+ {
+  "file": "image(90).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(90).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.02525080367922783,
+   "meningioma_tumor": 0.3623170554637909,
+   "no_tumor": 0.3998469114303589,
+   "pituitary_tumor": 0.21258525550365448
+  }
+ },
+ {
+  "file": "image(91).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(91).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.05186796933412552,
+   "meningioma_tumor": 0.38353222608566284,
+   "no_tumor": 0.45053350925445557,
+   "pituitary_tumor": 0.11406625807285309
+  }
+ },
+ {
+  "file": "image(92).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(92).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0003836909600067884,
+   "meningioma_tumor": 0.19385413825511932,
+   "no_tumor": 0.7747538089752197,
+   "pituitary_tumor": 0.031008435413241386
+  }
+ },
+ {
+  "file": "image(93).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(93).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.011104806326329708,
+   "meningioma_tumor": 0.32727620005607605,
+   "no_tumor": 0.339143306016922,
+   "pituitary_tumor": 0.32247570157051086
+  }
+ },
+ {
+  "file": "image(94).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(94).jpg",
+  "label": "glioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.011104806326329708,
+   "meningioma_tumor": 0.32727620005607605,
+   "no_tumor": 0.339143306016922,
+   "pituitary_tumor": 0.32247570157051086
+  }
+ },
+ {
+  "file": "image(95).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(95).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.01579868420958519,
+   "meningioma_tumor": 0.06740701198577881,
+   "no_tumor": 0.0056871226988732815,
+   "pituitary_tumor": 0.9111071228981018
+  }
+ },
+ {
+  "file": "image(97).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(97).jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.3229570686817169,
+   "meningioma_tumor": 0.39525309205055237,
+   "no_tumor": 0.28048181533813477,
+   "pituitary_tumor": 0.0013079680502414703
+  }
+ },
+ {
+  "file": "image(98).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(98).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.057387784123420715,
+   "meningioma_tumor": 0.3233869671821594,
+   "no_tumor": 0.1583528369665146,
+   "pituitary_tumor": 0.4608723521232605
+  }
+ },
+ {
+  "file": "image(99).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image(99).jpg",
+  "label": "glioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.057387784123420715,
+   "meningioma_tumor": 0.3233869671821594,
+   "no_tumor": 0.1583528369665146,
+   "pituitary_tumor": 0.4608723521232605
+  }
+ },
+ {
+  "file": "image.jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\glioma_tumor\\image.jpg",
+  "label": "glioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.09514516592025757,
+   "meningioma_tumor": 0.40912336111068726,
+   "no_tumor": 0.27498817443847656,
+   "pituitary_tumor": 0.2207433432340622
+  }
+ },
+ {
+  "file": "image(1).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(1).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.05880694463849068,
+   "meningioma_tumor": 0.4762731194496155,
+   "no_tumor": 0.4612327218055725,
+   "pituitary_tumor": 0.003687296761199832
+  }
+ },
+ {
+  "file": "image(10).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(10).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.036110714077949524,
+   "meningioma_tumor": 0.373948335647583,
+   "no_tumor": 0.4840087294578552,
+   "pituitary_tumor": 0.10593216121196747
+  }
+ },
+ {
+  "file": "image(100).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(100).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.031035153195261955,
+   "meningioma_tumor": 0.3638412356376648,
+   "no_tumor": 0.4040340483188629,
+   "pituitary_tumor": 0.20108962059020996
+  }
+ },
+ {
+  "file": "image(102).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(102).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.029916811734437943,
+   "meningioma_tumor": 0.2941223382949829,
+   "no_tumor": 0.6295739412307739,
+   "pituitary_tumor": 0.046386949717998505
+  }
+ },
+ {
+  "file": "image(106).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(106).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.006221810355782509,
+   "meningioma_tumor": 0.4059639573097229,
+   "no_tumor": 0.5291071534156799,
+   "pituitary_tumor": 0.058707039803266525
+  }
+ },
+ {
+  "file": "image(107).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(107).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007022465113550425,
+   "meningioma_tumor": 0.33890610933303833,
+   "no_tumor": 0.639014482498169,
+   "pituitary_tumor": 0.015056893229484558
+  }
+ },
+ {
+  "file": "image(109).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(109).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 5.3593303164234385e-06,
+   "meningioma_tumor": 0.02725750021636486,
+   "no_tumor": 0.9727311730384827,
+   "pituitary_tumor": 5.8786677072930615e-06
+  }
+ },
+ {
+  "file": "image(11).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(11).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.029490891844034195,
+   "meningioma_tumor": 0.3203582167625427,
+   "no_tumor": 0.4293912351131439,
+   "pituitary_tumor": 0.22075966000556946
+  }
+ },
+ {
+  "file": "image(112).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(112).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.2532046139240265,
+   "meningioma_tumor": 0.6447035670280457,
+   "no_tumor": 0.09121257066726685,
+   "pituitary_tumor": 0.010879299603402615
+  }
+ },
+ {
+  "file": "image(113).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(113).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.014933058992028236,
+   "meningioma_tumor": 0.31766191124916077,
+   "no_tumor": 0.6672219038009644,
+   "pituitary_tumor": 0.000183157593710348
+  }
+ },
+ {
+  "file": "image(118).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(118).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.034527331590652466,
+   "meningioma_tumor": 0.15107929706573486,
+   "no_tumor": 0.8120931386947632,
+   "pituitary_tumor": 0.002300160238519311
+  }
+ },
+ {
+  "file": "image(12).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(12).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0029738175217062235,
+   "meningioma_tumor": 0.1970156878232956,
+   "no_tumor": 0.560636579990387,
+   "pituitary_tumor": 0.23937387764453888
+  }
+ },
+ {
+  "file": "image(120).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(120).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.013333150185644627,
+   "meningioma_tumor": 0.36966535449028015,
+   "no_tumor": 0.5850029587745667,
+   "pituitary_tumor": 0.031998489052057266
+  }
+ },
+ {
+  "file": "image(121).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(121).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.09814442694187164,
+   "meningioma_tumor": 0.383788138628006,
+   "no_tumor": 0.3834739625453949,
+   "pituitary_tumor": 0.13459345698356628
+  }
+ },
+ {
+  "file": "image(123).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(123).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.000805628951638937,
+   "meningioma_tumor": 0.18479840457439423,
+   "no_tumor": 0.6497839093208313,
+   "pituitary_tumor": 0.1646120548248291
+  }
+ },
+ {
+  "file": "image(124).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(124).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.008046830072999,
+   "meningioma_tumor": 0.35383594036102295,
+   "no_tumor": 0.633065938949585,
+   "pituitary_tumor": 0.005051230546087027
+  }
+ },
+ {
+  "file": "image(125).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(125).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0005664161290042102,
+   "meningioma_tumor": 0.19975289702415466,
+   "no_tumor": 0.7972679734230042,
+   "pituitary_tumor": 0.002412699395790696
+  }
+ },
+ {
+  "file": "image(126).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(126).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007133211474865675,
+   "meningioma_tumor": 0.4167613685131073,
+   "no_tumor": 0.5048296451568604,
+   "pituitary_tumor": 0.0712757557630539
+  }
+ },
+ {
+  "file": "image(127).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(127).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.013284096494317055,
+   "meningioma_tumor": 0.30837881565093994,
+   "no_tumor": 0.6231723427772522,
+   "pituitary_tumor": 0.05516473203897476
+  }
+ },
+ {
+  "file": "image(13).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(13).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.06473463773727417,
+   "meningioma_tumor": 0.14563654363155365,
+   "no_tumor": 0.06834755837917328,
+   "pituitary_tumor": 0.7212812900543213
+  }
+ },
+ {
+  "file": "image(14).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(14).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0019248906755819917,
+   "meningioma_tumor": 0.23112888634204865,
+   "no_tumor": 0.6938799023628235,
+   "pituitary_tumor": 0.07306632399559021
+  }
+ },
+ {
+  "file": "image(15).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(15).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0022446089424192905,
+   "meningioma_tumor": 0.2850399911403656,
+   "no_tumor": 0.7001261115074158,
+   "pituitary_tumor": 0.012589230202138424
+  }
+ },
+ {
+  "file": "image(16).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(16).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.05564641207456589,
+   "meningioma_tumor": 0.4428615868091583,
+   "no_tumor": 0.46067550778388977,
+   "pituitary_tumor": 0.040816448628902435
+  }
+ },
+ {
+  "file": "image(17).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(17).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.005100715439766645,
+   "meningioma_tumor": 0.30555102229118347,
+   "no_tumor": 0.34794625639915466,
+   "pituitary_tumor": 0.34140196442604065
+  }
+ },
+ {
+  "file": "image(18).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(18).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 6.048788236512337e-06,
+   "meningioma_tumor": 0.06473894417285919,
+   "no_tumor": 0.9326333403587341,
+   "pituitary_tumor": 0.0026216532569378614
+  }
+ },
+ {
+  "file": "image(19).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(19).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.012163606472313404,
+   "meningioma_tumor": 0.2589053511619568,
+   "no_tumor": 0.7268401384353638,
+   "pituitary_tumor": 0.002090846188366413
+  }
+ },
+ {
+  "file": "image(2).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(2).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.01506531797349453,
+   "meningioma_tumor": 0.6346037983894348,
+   "no_tumor": 0.3275924026966095,
+   "pituitary_tumor": 0.02273845672607422
+  }
+ },
+ {
+  "file": "image(20).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(20).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.023725420236587524,
+   "meningioma_tumor": 0.29472553730010986,
+   "no_tumor": 0.6705605983734131,
+   "pituitary_tumor": 0.010988369584083557
+  }
+ },
+ {
+  "file": "image(21).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(21).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.055349722504615784,
+   "meningioma_tumor": 0.5220780372619629,
+   "no_tumor": 0.4091460704803467,
+   "pituitary_tumor": 0.013426191173493862
+  }
+ },
+ {
+  "file": "image(22).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(22).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.005102239549160004,
+   "meningioma_tumor": 0.325659841299057,
+   "no_tumor": 0.6429869532585144,
+   "pituitary_tumor": 0.026250921189785004
+  }
+ },
+ {
+  "file": "image(23).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(23).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.003400547429919243,
+   "meningioma_tumor": 0.30527612566947937,
+   "no_tumor": 0.6779479384422302,
+   "pituitary_tumor": 0.013375337235629559
+  }
+ },
+ {
+  "file": "image(24).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(24).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.034527331590652466,
+   "meningioma_tumor": 0.15107929706573486,
+   "no_tumor": 0.8120931386947632,
+   "pituitary_tumor": 0.002300160238519311
+  }
+ },
+ {
+  "file": "image(25).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(25).jpg",
+  "label": "meningioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.5583516955375671,
+   "meningioma_tumor": 0.17009715735912323,
+   "no_tumor": 0.27119043469429016,
+   "pituitary_tumor": 0.0003607198887038976
+  }
+ },
+ {
+  "file": "image(26).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(26).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0012809236068278551,
+   "meningioma_tumor": 0.1313469111919403,
+   "no_tumor": 0.8672162294387817,
+   "pituitary_tumor": 0.00015589910617563874
+  }
+ },
+ {
+  "file": "image(27).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(27).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.012123011983931065,
+   "meningioma_tumor": 0.3652282953262329,
+   "no_tumor": 0.6111841201782227,
+   "pituitary_tumor": 0.011464523151516914
+  }
+ },
+ {
+  "file": "image(28).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(28).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.010761755518615246,
+   "meningioma_tumor": 0.36389902234077454,
+   "no_tumor": 0.596683144569397,
+   "pituitary_tumor": 0.028656110167503357
+  }
+ },
+ {
+  "file": "image(29).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(29).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0004415730363689363,
+   "meningioma_tumor": 0.2140767127275467,
+   "no_tumor": 0.7839410305023193,
+   "pituitary_tumor": 0.0015406651655212045
+  }
+ },
+ {
+  "file": "image(3).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(3).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.02791484072804451,
+   "meningioma_tumor": 0.16326722502708435,
+   "no_tumor": 0.8084000945091248,
+   "pituitary_tumor": 0.0004178448289167136
+  }
+ },
+ {
+  "file": "image(30).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(30).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.21383756399154663,
+   "meningioma_tumor": 0.6430163383483887,
+   "no_tumor": 0.12978066504001617,
+   "pituitary_tumor": 0.013365384191274643
+  }
+ },
+ {
+  "file": "image(31).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(31).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.010508527047932148,
+   "meningioma_tumor": 0.33078041672706604,
+   "no_tumor": 0.5841412544250488,
+   "pituitary_tumor": 0.07456985116004944
+  }
+ },
+ {
+  "file": "image(32).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(32).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.02816583588719368,
+   "meningioma_tumor": 0.1718277633190155,
+   "no_tumor": 0.7990540266036987,
+   "pituitary_tumor": 0.000952403643168509
+  }
+ },
+ {
+  "file": "image(33).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(33).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0006661229417659342,
+   "meningioma_tumor": 0.20603501796722412,
+   "no_tumor": 0.7901065349578857,
+   "pituitary_tumor": 0.0031923188362270594
+  }
+ },
+ {
+  "file": "image(34).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(34).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.055555686354637146,
+   "meningioma_tumor": 0.5614643096923828,
+   "no_tumor": 0.26702064275741577,
+   "pituitary_tumor": 0.11595933884382248
+  }
+ },
+ {
+  "file": "image(35).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(35).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.05905625596642494,
+   "meningioma_tumor": 0.4091171324253082,
+   "no_tumor": 0.4665248692035675,
+   "pituitary_tumor": 0.06530172377824783
+  }
+ },
+ {
+  "file": "image(36).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(36).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0035702039021998644,
+   "meningioma_tumor": 0.2733045518398285,
+   "no_tumor": 0.7042970061302185,
+   "pituitary_tumor": 0.018828202039003372
+  }
+ },
+ {
+  "file": "image(37).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(37).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.06319326907396317,
+   "meningioma_tumor": 0.39297810196876526,
+   "no_tumor": 0.36432018876075745,
+   "pituitary_tumor": 0.17950846254825592
+  }
+ },
+ {
+  "file": "image(38).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(38).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.24684740602970123,
+   "meningioma_tumor": 0.37317368388175964,
+   "no_tumor": 0.1993422955274582,
+   "pituitary_tumor": 0.18063656985759735
+  }
+ },
+ {
+  "file": "image(39).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(39).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0596112422645092,
+   "meningioma_tumor": 0.37839069962501526,
+   "no_tumor": 0.4429371654987335,
+   "pituitary_tumor": 0.11906085908412933
+  }
+ },
+ {
+  "file": "image(4).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(4).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.14021457731723785,
+   "meningioma_tumor": 0.43070709705352783,
+   "no_tumor": 0.2295202910900116,
+   "pituitary_tumor": 0.1995580941438675
+  }
+ },
+ {
+  "file": "image(40).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(40).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.03795558214187622,
+   "meningioma_tumor": 0.3979703485965729,
+   "no_tumor": 0.4578917622566223,
+   "pituitary_tumor": 0.10618230700492859
+  }
+ },
+ {
+  "file": "image(41).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(41).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.019432710483670235,
+   "meningioma_tumor": 0.33176013827323914,
+   "no_tumor": 0.6265147924423218,
+   "pituitary_tumor": 0.02229233644902706
+  }
+ },
+ {
+  "file": "image(42).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(42).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.09044888615608215,
+   "meningioma_tumor": 0.4389353394508362,
+   "no_tumor": 0.4027555286884308,
+   "pituitary_tumor": 0.06786027550697327
+  }
+ },
+ {
+  "file": "image(43).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(43).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.05822308734059334,
+   "meningioma_tumor": 0.3764548599720001,
+   "no_tumor": 0.5288514494895935,
+   "pituitary_tumor": 0.036470603197813034
+  }
+ },
+ {
+  "file": "image(44).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(44).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.035731516778469086,
+   "meningioma_tumor": 0.3073996603488922,
+   "no_tumor": 0.6215830445289612,
+   "pituitary_tumor": 0.03528574854135513
+  }
+ },
+ {
+  "file": "image(45).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(45).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.056774698197841644,
+   "meningioma_tumor": 0.5716072916984558,
+   "no_tumor": 0.2527061998844147,
+   "pituitary_tumor": 0.11891171336174011
+  }
+ },
+ {
+  "file": "image(46).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(46).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.06404309719800949,
+   "meningioma_tumor": 0.41941794753074646,
+   "no_tumor": 0.4429473578929901,
+   "pituitary_tumor": 0.07359158247709274
+  }
+ },
+ {
+  "file": "image(47).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(47).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0036635121796280146,
+   "meningioma_tumor": 0.27392253279685974,
+   "no_tumor": 0.7013697624206543,
+   "pituitary_tumor": 0.021044287830591202
+  }
+ },
+ {
+  "file": "image(48).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(48).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0020675791893154383,
+   "meningioma_tumor": 0.2237876057624817,
+   "no_tumor": 0.726008415222168,
+   "pituitary_tumor": 0.04813647270202637
+  }
+ },
+ {
+  "file": "image(49).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(49).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.2598750591278076,
+   "meningioma_tumor": 0.5177789926528931,
+   "no_tumor": 0.2001611888408661,
+   "pituitary_tumor": 0.022184807807207108
+  }
+ },
+ {
+  "file": "image(5).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(5).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.06694702804088593,
+   "meningioma_tumor": 0.28350672125816345,
+   "no_tumor": 0.546707034111023,
+   "pituitary_tumor": 0.10283921658992767
+  }
+ },
+ {
+  "file": "image(50).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(50).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.016174886375665665,
+   "meningioma_tumor": 0.3397066295146942,
+   "no_tumor": 0.5452706813812256,
+   "pituitary_tumor": 0.09884785115718842
+  }
+ },
+ {
+  "file": "image(51).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(51).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007684107404202223,
+   "meningioma_tumor": 0.30447426438331604,
+   "no_tumor": 0.6792314052581787,
+   "pituitary_tumor": 0.008610183373093605
+  }
+ },
+ {
+  "file": "image(52).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(52).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0010511500295251608,
+   "meningioma_tumor": 0.17419327795505524,
+   "no_tumor": 0.8146136403083801,
+   "pituitary_tumor": 0.010141917504370213
+  }
+ },
+ {
+  "file": "image(53).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(53).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.08376497030258179,
+   "meningioma_tumor": 0.42092400789260864,
+   "no_tumor": 0.4066826403141022,
+   "pituitary_tumor": 0.088628388941288
+  }
+ },
+ {
+  "file": "image(54).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(54).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.010451468639075756,
+   "meningioma_tumor": 0.296068012714386,
+   "no_tumor": 0.21054786443710327,
+   "pituitary_tumor": 0.4829326570034027
+  }
+ },
+ {
+  "file": "image(55).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(55).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.07398904114961624,
+   "meningioma_tumor": 0.3873180150985718,
+   "no_tumor": 0.36840030550956726,
+   "pituitary_tumor": 0.17029257118701935
+  }
+ },
+ {
+  "file": "image(56).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(56).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.3711710274219513,
+   "meningioma_tumor": 0.41309574246406555,
+   "no_tumor": 0.17951776087284088,
+   "pituitary_tumor": 0.03621544688940048
+  }
+ },
+ {
+  "file": "image(57).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(57).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.01504634041339159,
+   "meningioma_tumor": 0.36805757880210876,
+   "no_tumor": 0.6110113263130188,
+   "pituitary_tumor": 0.0058848368935287
+  }
+ },
+ {
+  "file": "image(58).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(58).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.014923006296157837,
+   "meningioma_tumor": 0.6327219605445862,
+   "no_tumor": 0.325018972158432,
+   "pituitary_tumor": 0.027336101979017258
+  }
+ },
+ {
+  "file": "image(59).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(59).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.002414499409496784,
+   "meningioma_tumor": 0.24403397738933563,
+   "no_tumor": 0.692101240158081,
+   "pituitary_tumor": 0.0614502988755703
+  }
+ },
+ {
+  "file": "image(6).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(6).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.06117072328925133,
+   "meningioma_tumor": 0.29614660143852234,
+   "no_tumor": 0.2199302762746811,
+   "pituitary_tumor": 0.42275238037109375
+  }
+ },
+ {
+  "file": "image(60).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(60).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.104224793612957,
+   "meningioma_tumor": 0.5330137014389038,
+   "no_tumor": 0.26968127489089966,
+   "pituitary_tumor": 0.0930803045630455
+  }
+ },
+ {
+  "file": "image(61).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(61).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.13459229469299316,
+   "meningioma_tumor": 0.4388059079647064,
+   "no_tumor": 0.3964483439922333,
+   "pituitary_tumor": 0.03015338070690632
+  }
+ },
+ {
+  "file": "image(62).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(62).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.104224793612957,
+   "meningioma_tumor": 0.5330137014389038,
+   "no_tumor": 0.26968127489089966,
+   "pituitary_tumor": 0.0930803045630455
+  }
+ },
+ {
+  "file": "image(63).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(63).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.014064965769648552,
+   "meningioma_tumor": 0.3684970438480377,
+   "no_tumor": 0.5881056785583496,
+   "pituitary_tumor": 0.029332252219319344
+  }
+ },
+ {
+  "file": "image(64).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(64).jpg",
+  "label": "meningioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.39280012249946594,
+   "meningioma_tumor": 0.363834947347641,
+   "no_tumor": 0.21447919309139252,
+   "pituitary_tumor": 0.02888573706150055
+  }
+ },
+ {
+  "file": "image(65).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(65).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0583052784204483,
+   "meningioma_tumor": 0.5268706679344177,
+   "no_tumor": 0.3983042240142822,
+   "pituitary_tumor": 0.016519820317626
+  }
+ },
+ {
+  "file": "image(66).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(66).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.009350219741463661,
+   "meningioma_tumor": 0.29558059573173523,
+   "no_tumor": 0.6720989942550659,
+   "pituitary_tumor": 0.022970223799347878
+  }
+ },
+ {
+  "file": "image(67).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(67).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.011835835874080658,
+   "meningioma_tumor": 0.3718799352645874,
+   "no_tumor": 0.5860230922698975,
+   "pituitary_tumor": 0.030261140316724777
+  }
+ },
+ {
+  "file": "image(68).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(68).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.18970483541488647,
+   "meningioma_tumor": 0.3526795208454132,
+   "no_tumor": 0.2130291610956192,
+   "pituitary_tumor": 0.2445864975452423
+  }
+ },
+ {
+  "file": "image(69).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(69).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.014414326287806034,
+   "meningioma_tumor": 0.018470661714673042,
+   "no_tumor": 0.0012596090091392398,
+   "pituitary_tumor": 0.9658554196357727
+  }
+ },
+ {
+  "file": "image(7).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(7).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00011089180770795792,
+   "meningioma_tumor": 0.1555251181125641,
+   "no_tumor": 0.8186020255088806,
+   "pituitary_tumor": 0.025761937722563744
+  }
+ },
+ {
+  "file": "image(70).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(70).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.17203454673290253,
+   "meningioma_tumor": 0.7509145736694336,
+   "no_tumor": 0.062311332672834396,
+   "pituitary_tumor": 0.01473949383944273
+  }
+ },
+ {
+  "file": "image(71).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(71).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.08002417534589767,
+   "meningioma_tumor": 0.5569700598716736,
+   "no_tumor": 0.322502076625824,
+   "pituitary_tumor": 0.04050366207957268
+  }
+ },
+ {
+  "file": "image(72).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(72).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.05457049980759621,
+   "meningioma_tumor": 0.2872824966907501,
+   "no_tumor": 0.21407102048397064,
+   "pituitary_tumor": 0.4440760016441345
+  }
+ },
+ {
+  "file": "image(73).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(73).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.022997567430138588,
+   "meningioma_tumor": 0.4164498448371887,
+   "no_tumor": 0.5381935834884644,
+   "pituitary_tumor": 0.022359030321240425
+  }
+ },
+ {
+  "file": "image(74).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(74).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.001772638875991106,
+   "meningioma_tumor": 0.2522214651107788,
+   "no_tumor": 0.7319458723068237,
+   "pituitary_tumor": 0.014059947803616524
+  }
+ },
+ {
+  "file": "image(75).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(75).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.01519160158932209,
+   "meningioma_tumor": 0.35471755266189575,
+   "no_tumor": 0.5499906539916992,
+   "pituitary_tumor": 0.08010010421276093
+  }
+ },
+ {
+  "file": "image(76).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(76).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0002747799444478005,
+   "meningioma_tumor": 0.1979425698518753,
+   "no_tumor": 0.7957503795623779,
+   "pituitary_tumor": 0.006032304838299751
+  }
+ },
+ {
+  "file": "image(77).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(77).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.044042348861694336,
+   "meningioma_tumor": 0.5149612426757812,
+   "no_tumor": 0.43346306681632996,
+   "pituitary_tumor": 0.007533403113484383
+  }
+ },
+ {
+  "file": "image(78).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(78).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.01893206313252449,
+   "meningioma_tumor": 0.37009650468826294,
+   "no_tumor": 0.571807324886322,
+   "pituitary_tumor": 0.03916403651237488
+  }
+ },
+ {
+  "file": "image(79).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(79).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.005575612187385559,
+   "meningioma_tumor": 0.3124070465564728,
+   "no_tumor": 0.1080772802233696,
+   "pituitary_tumor": 0.5739400386810303
+  }
+ },
+ {
+  "file": "image(8).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(8).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.07517524808645248,
+   "meningioma_tumor": 0.21531198918819427,
+   "no_tumor": 0.2675115168094635,
+   "pituitary_tumor": 0.44200119376182556
+  }
+ },
+ {
+  "file": "image(80).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(80).jpg",
+  "label": "meningioma_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.6306645274162292,
+   "meningioma_tumor": 0.1320338398218155,
+   "no_tumor": 0.23701882362365723,
+   "pituitary_tumor": 0.0002827787247952074
+  }
+ },
+ {
+  "file": "image(81).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(81).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.19094112515449524,
+   "meningioma_tumor": 0.7473852038383484,
+   "no_tumor": 0.05659007281064987,
+   "pituitary_tumor": 0.0050836242735385895
+  }
+ },
+ {
+  "file": "image(82).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(82).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.01634182222187519,
+   "meningioma_tumor": 0.6142523884773254,
+   "no_tumor": 0.3574677109718323,
+   "pituitary_tumor": 0.011938066221773624
+  }
+ },
+ {
+  "file": "image(83).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(83).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.090696319937706,
+   "meningioma_tumor": 0.41509386897087097,
+   "no_tumor": 0.40360042452812195,
+   "pituitary_tumor": 0.09060937911272049
+  }
+ },
+ {
+  "file": "image(84).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(84).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.030261442065238953,
+   "meningioma_tumor": 0.37242963910102844,
+   "no_tumor": 0.3515684902667999,
+   "pituitary_tumor": 0.24574050307273865
+  }
+ },
+ {
+  "file": "image(85).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(85).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.014024516567587852,
+   "meningioma_tumor": 0.3638143837451935,
+   "no_tumor": 0.5925399661064148,
+   "pituitary_tumor": 0.029621107503771782
+  }
+ },
+ {
+  "file": "image(86).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(86).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0020337088499218225,
+   "meningioma_tumor": 0.04860746115446091,
+   "no_tumor": 0.9493206143379211,
+   "pituitary_tumor": 3.828529952443205e-05
+  }
+ },
+ {
+  "file": "image(87).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(87).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.059552401304244995,
+   "meningioma_tumor": 0.2591143548488617,
+   "no_tumor": 0.045467834919691086,
+   "pituitary_tumor": 0.6358653903007507
+  }
+ },
+ {
+  "file": "image(88).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(88).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0023673889227211475,
+   "meningioma_tumor": 0.07567033916711807,
+   "no_tumor": 0.9218112826347351,
+   "pituitary_tumor": 0.00015093722322490066
+  }
+ },
+ {
+  "file": "image(89).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(89).jpg",
+  "label": "meningioma_tumor",
+  "pred": "meningioma_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.21876157820224762,
+   "meningioma_tumor": 0.7577501535415649,
+   "no_tumor": 0.022962862625718117,
+   "pituitary_tumor": 0.0005254969582892954
+  }
+ },
+ {
+  "file": "image(9).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(9).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0757952630519867,
+   "meningioma_tumor": 0.40177106857299805,
+   "no_tumor": 0.4819045066833496,
+   "pituitary_tumor": 0.04052923992276192
+  }
+ },
+ {
+  "file": "image(90).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(90).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.013672341592609882,
+   "meningioma_tumor": 0.255633145570755,
+   "no_tumor": 0.7289156913757324,
+   "pituitary_tumor": 0.0017787987599149346
+  }
+ },
+ {
+  "file": "image(91).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(91).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.024405309930443764,
+   "meningioma_tumor": 0.3680090606212616,
+   "no_tumor": 0.6073732376098633,
+   "pituitary_tumor": 0.00021235746680758893
+  }
+ },
+ {
+  "file": "image(92).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(92).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.024000968784093857,
+   "meningioma_tumor": 0.45285701751708984,
+   "no_tumor": 0.519954264163971,
+   "pituitary_tumor": 0.003187761642038822
+  }
+ },
+ {
+  "file": "image(93).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(93).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.007350585423409939,
+   "meningioma_tumor": 0.3926737308502197,
+   "no_tumor": 0.5572365522384644,
+   "pituitary_tumor": 0.04273906722664833
+  }
+ },
+ {
+  "file": "image(94).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(94).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.038795847445726395,
+   "meningioma_tumor": 0.3339436948299408,
+   "no_tumor": 0.2889045476913452,
+   "pituitary_tumor": 0.33835598826408386
+  }
+ },
+ {
+  "file": "image(95).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(95).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.15881843864917755,
+   "meningioma_tumor": 0.3764607906341553,
+   "no_tumor": 0.4623040556907654,
+   "pituitary_tumor": 0.0024167250376194715
+  }
+ },
+ {
+  "file": "image(96).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(96).jpg",
+  "label": "meningioma_tumor",
+  "pred": "pituitary_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0839831754565239,
+   "meningioma_tumor": 0.3533162474632263,
+   "no_tumor": 0.005979549139738083,
+   "pituitary_tumor": 0.556721031665802
+  }
+ },
+ {
+  "file": "image(97).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(97).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.003438512561842799,
+   "meningioma_tumor": 0.028865793719887733,
+   "no_tumor": 0.9676883816719055,
+   "pituitary_tumor": 7.306650331884157e-06
+  }
+ },
+ {
+  "file": "image(98).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(98).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.009730476886034012,
+   "meningioma_tumor": 0.26566383242607117,
+   "no_tumor": 0.7208228707313538,
+   "pituitary_tumor": 0.0037827675696462393
+  }
+ },
+ {
+  "file": "image(99).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image(99).jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0005056001828052104,
+   "meningioma_tumor": 0.10638734698295593,
+   "no_tumor": 0.8929796814918518,
+   "pituitary_tumor": 0.00012737256474792957
+  }
+ },
+ {
+  "file": "image.jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\meningioma_tumor\\image.jpg",
+  "label": "meningioma_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.027415677905082703,
+   "meningioma_tumor": 0.14965206384658813,
+   "no_tumor": 0.8224013447761536,
+   "pituitary_tumor": 0.0005308933323249221
+  }
+ },
+ {
+  "file": "image(1).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(1).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.17794999480247498,
+   "meningioma_tumor": 0.45196253061294556,
+   "no_tumor": 0.37004804611206055,
+   "pituitary_tumor": 3.939658927265555e-05
+  }
+ },
+ {
+  "file": "image(10).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(10).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.012180227786302567,
+   "meningioma_tumor": 0.05469145625829697,
+   "no_tumor": 0.9329153895378113,
+   "pituitary_tumor": 0.00021301272499840707
+  }
+ },
+ {
+  "file": "image(100).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(100).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.012918184511363506,
+   "meningioma_tumor": 0.0646323636174202,
+   "no_tumor": 0.9224233031272888,
+   "pituitary_tumor": 2.6215500838588923e-05
+  }
+ },
+ {
+  "file": "image(101).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(101).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.10923972725868225,
+   "meningioma_tumor": 0.35396283864974976,
+   "no_tumor": 0.4528714120388031,
+   "pituitary_tumor": 0.08392596989870071
+  }
+ },
+ {
+  "file": "image(102).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(102).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.04344632476568222,
+   "meningioma_tumor": 0.3875177502632141,
+   "no_tumor": 0.426911860704422,
+   "pituitary_tumor": 0.14212408661842346
+  }
+ },
+ {
+  "file": "image(103).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(103).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.15157897770404816,
+   "meningioma_tumor": 0.5571877956390381,
+   "no_tumor": 0.26677024364471436,
+   "pituitary_tumor": 0.02446296624839306
+  }
+ },
+ {
+  "file": "image(104).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(104).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.000836348335724324,
+   "meningioma_tumor": 0.021571610122919083,
+   "no_tumor": 0.9775791764259338,
+   "pituitary_tumor": 1.2856940884375945e-05
+  }
+ },
+ {
+  "file": "image(11).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(11).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.024776507169008255,
+   "meningioma_tumor": 0.6353211998939514,
+   "no_tumor": 0.339831680059433,
+   "pituitary_tumor": 7.057208131300285e-05
+  }
+ },
+ {
+  "file": "image(12).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(12).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.08011394739151001,
+   "meningioma_tumor": 0.5539302825927734,
+   "no_tumor": 0.36446645855903625,
+   "pituitary_tumor": 0.0014892928302288055
+  }
+ },
+ {
+  "file": "image(13).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(13).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.028288718312978745,
+   "meningioma_tumor": 0.32599344849586487,
+   "no_tumor": 0.6437779664993286,
+   "pituitary_tumor": 0.0019398618023842573
+  }
+ },
+ {
+  "file": "image(14).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(14).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.01677578315138817,
+   "meningioma_tumor": 0.39355313777923584,
+   "no_tumor": 0.5588178634643555,
+   "pituitary_tumor": 0.030853252857923508
+  }
+ },
+ {
+  "file": "image(15).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(15).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.10945747047662735,
+   "meningioma_tumor": 0.46789729595184326,
+   "no_tumor": 0.4224698841571808,
+   "pituitary_tumor": 0.00017524206486996263
+  }
+ },
+ {
+  "file": "image(16).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(16).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.02436375431716442,
+   "meningioma_tumor": 0.15658968687057495,
+   "no_tumor": 0.819021463394165,
+   "pituitary_tumor": 2.508219586161431e-05
+  }
+ },
+ {
+  "file": "image(17).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(17).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.1000828891992569,
+   "meningioma_tumor": 0.42039525508880615,
+   "no_tumor": 0.36945444345474243,
+   "pituitary_tumor": 0.11006742715835571
+  }
+ },
+ {
+  "file": "image(18).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(18).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.004355493932962418,
+   "meningioma_tumor": 0.1986108273267746,
+   "no_tumor": 0.7962583303451538,
+   "pituitary_tumor": 0.0007753648678772151
+  }
+ },
+ {
+  "file": "image(19).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(19).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.01847263053059578,
+   "meningioma_tumor": 0.34931477904319763,
+   "no_tumor": 0.609192967414856,
+   "pituitary_tumor": 0.023019561544060707
+  }
+ },
+ {
+  "file": "image(2).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(2).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.002838699147105217,
+   "meningioma_tumor": 0.016687437891960144,
+   "no_tumor": 0.9804731607437134,
+   "pituitary_tumor": 7.388607627945021e-07
+  }
+ },
+ {
+  "file": "image(20).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(20).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0013130800798535347,
+   "meningioma_tumor": 0.09735704213380814,
+   "no_tumor": 0.8778948187828064,
+   "pituitary_tumor": 0.023435113951563835
+  }
+ },
+ {
+  "file": "image(21).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(21).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0010810690000653267,
+   "meningioma_tumor": 0.034674059599637985,
+   "no_tumor": 0.9642316699028015,
+   "pituitary_tumor": 1.3168570148991421e-05
+  }
+ },
+ {
+  "file": "image(22).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(22).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 1.4375477803696413e-05,
+   "meningioma_tumor": 0.010187598876655102,
+   "no_tumor": 0.9897933006286621,
+   "pituitary_tumor": 4.684237410401693e-06
+  }
+ },
+ {
+  "file": "image(23).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(23).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.012209117412567139,
+   "meningioma_tumor": 0.34311115741729736,
+   "no_tumor": 0.6439706087112427,
+   "pituitary_tumor": 0.0007090847357176244
+  }
+ },
+ {
+  "file": "image(24).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(24).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 3.372692299308255e-05,
+   "meningioma_tumor": 0.01398716401308775,
+   "no_tumor": 0.9859776496887207,
+   "pituitary_tumor": 1.5155904975472367e-06
+  }
+ },
+ {
+  "file": "image(25).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(25).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.04076666757464409,
+   "meningioma_tumor": 0.39130863547325134,
+   "no_tumor": 0.5495358109474182,
+   "pituitary_tumor": 0.018388764932751656
+  }
+ },
+ {
+  "file": "image(26).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(26).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.00013981976371724159,
+   "meningioma_tumor": 0.09132449328899384,
+   "no_tumor": 0.9075421094894409,
+   "pituitary_tumor": 0.0009935927810147405
+  }
+ },
+ {
+  "file": "image(27).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(27).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0027043416630476713,
+   "meningioma_tumor": 0.09247426688671112,
+   "no_tumor": 0.8960475325584412,
+   "pituitary_tumor": 0.008773881942033768
+  }
+ },
+ {
+  "file": "image(28).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(28).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 6.840119749540463e-05,
+   "meningioma_tumor": 0.06212031468749046,
+   "no_tumor": 0.9375479221343994,
+   "pituitary_tumor": 0.0002633520925883204
+  }
+ },
+ {
+  "file": "image(29).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(29).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.000368647335562855,
+   "meningioma_tumor": 0.06825969368219376,
+   "no_tumor": 0.9312127232551575,
+   "pituitary_tumor": 0.0001589730236446485
+  }
+ },
+ {
+  "file": "image(3).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(3).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.001432479009963572,
+   "meningioma_tumor": 0.20809365808963776,
+   "no_tumor": 0.7756199836730957,
+   "pituitary_tumor": 0.01485390029847622
+  }
+ },
+ {
+  "file": "image(30).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(30).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.006386659108102322,
+   "meningioma_tumor": 0.2907426357269287,
+   "no_tumor": 0.6690784096717834,
+   "pituitary_tumor": 0.03379231318831444
+  }
+ },
+ {
+  "file": "image(31).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(31).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.18443013727664948,
+   "meningioma_tumor": 0.6550718545913696,
+   "no_tumor": 0.16029934585094452,
+   "pituitary_tumor": 0.0001986783609027043
+  }
+ },
+ {
+  "file": "image(32).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(32).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0024253707379102707,
+   "meningioma_tumor": 0.28718650341033936,
+   "no_tumor": 0.701669454574585,
+   "pituitary_tumor": 0.008718611672520638
+  }
+ },
+ {
+  "file": "image(33).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(33).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.012180227786302567,
+   "meningioma_tumor": 0.05469145625829697,
+   "no_tumor": 0.9329153895378113,
+   "pituitary_tumor": 0.00021301272499840707
+  }
+ },
+ {
+  "file": "image(34).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(34).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 1.2667271221289411e-05,
+   "meningioma_tumor": 0.005711594130843878,
+   "no_tumor": 0.9942756295204163,
+   "pituitary_tumor": 6.49210250003307e-08
+  }
+ },
+ {
+  "file": "image(35).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(35).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.006628140341490507,
+   "meningioma_tumor": 0.23068831861019135,
+   "no_tumor": 0.7419453263282776,
+   "pituitary_tumor": 0.02073819935321808
+  }
+ },
+ {
+  "file": "image(36).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(36).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.01707795262336731,
+   "meningioma_tumor": 0.3976960778236389,
+   "no_tumor": 0.558243453502655,
+   "pituitary_tumor": 0.02698252722620964
+  }
+ },
+ {
+  "file": "image(37).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(37).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.36447539925575256,
+   "meningioma_tumor": 0.596981406211853,
+   "no_tumor": 0.023408368229866028,
+   "pituitary_tumor": 0.015134744346141815
+  }
+ },
+ {
+  "file": "image(38).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(38).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.02046036347746849,
+   "meningioma_tumor": 0.1151033267378807,
+   "no_tumor": 0.8629461526870728,
+   "pituitary_tumor": 0.0014902176335453987
+  }
+ },
+ {
+  "file": "image(39).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(39).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0004019071056973189,
+   "meningioma_tumor": 0.07333631813526154,
+   "no_tumor": 0.9260726571083069,
+   "pituitary_tumor": 0.00018906081095337868
+  }
+ },
+ {
+  "file": "image(4).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(4).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0019303523004055023,
+   "meningioma_tumor": 0.1761254221200943,
+   "no_tumor": 0.7394489049911499,
+   "pituitary_tumor": 0.0824953019618988
+  }
+ },
+ {
+  "file": "image(40).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(40).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.00026211788645014167,
+   "meningioma_tumor": 0.11616729199886322,
+   "no_tumor": 0.8727349638938904,
+   "pituitary_tumor": 0.010835548862814903
+  }
+ },
+ {
+  "file": "image(41).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(41).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.04578268527984619,
+   "meningioma_tumor": 0.2520010471343994,
+   "no_tumor": 0.7021307349205017,
+   "pituitary_tumor": 8.553485531592742e-05
+  }
+ },
+ {
+  "file": "image(42).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(42).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.00011068972526118159,
+   "meningioma_tumor": 0.016940753906965256,
+   "no_tumor": 0.9829460382461548,
+   "pituitary_tumor": 2.483266143826768e-06
+  }
+ },
+ {
+  "file": "image(43).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(43).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.252328097820282,
+   "meningioma_tumor": 0.5307220220565796,
+   "no_tumor": 0.21329258382320404,
+   "pituitary_tumor": 0.0036572820972651243
+  }
+ },
+ {
+  "file": "image(44).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(44).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.016769258305430412,
+   "meningioma_tumor": 0.25997284054756165,
+   "no_tumor": 0.7219343185424805,
+   "pituitary_tumor": 0.0013235878432169557
+  }
+ },
+ {
+  "file": "image(45).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(45).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.02436375431716442,
+   "meningioma_tumor": 0.15658968687057495,
+   "no_tumor": 0.819021463394165,
+   "pituitary_tumor": 2.508219586161431e-05
+  }
+ },
+ {
+  "file": "image(46).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(46).jpg",
+  "label": "no_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.8601270318031311,
+   "meningioma_tumor": 0.06753596663475037,
+   "no_tumor": 0.06208709254860878,
+   "pituitary_tumor": 0.010249965824186802
+  }
+ },
+ {
+  "file": "image(47).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(47).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0004607406153809279,
+   "meningioma_tumor": 0.07514811307191849,
+   "no_tumor": 0.9242202043533325,
+   "pituitary_tumor": 0.00017085440049413592
+  }
+ },
+ {
+  "file": "image(48).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(48).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 8.335259917657822e-05,
+   "meningioma_tumor": 0.014238221570849419,
+   "no_tumor": 0.9856768846511841,
+   "pituitary_tumor": 1.5414498193422332e-06
+  }
+ },
+ {
+  "file": "image(49).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(49).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.10945747047662735,
+   "meningioma_tumor": 0.46789729595184326,
+   "no_tumor": 0.4224698841571808,
+   "pituitary_tumor": 0.00017524206486996263
+  }
+ },
+ {
+  "file": "image(5).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(5).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0008098536636680365,
+   "meningioma_tumor": 0.1685059666633606,
+   "no_tumor": 0.8136987090110779,
+   "pituitary_tumor": 0.0169854536652565
+  }
+ },
+ {
+  "file": "image(50).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(50).jpg",
+  "label": "no_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.8601270318031311,
+   "meningioma_tumor": 0.06753596663475037,
+   "no_tumor": 0.06208709254860878,
+   "pituitary_tumor": 0.010249965824186802
+  }
+ },
+ {
+  "file": "image(51).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(51).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.02537592314183712,
+   "meningioma_tumor": 0.39293962717056274,
+   "no_tumor": 0.5702243447303772,
+   "pituitary_tumor": 0.011460095643997192
+  }
+ },
+ {
+  "file": "image(52).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(52).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.04578268527984619,
+   "meningioma_tumor": 0.2520010471343994,
+   "no_tumor": 0.7021307349205017,
+   "pituitary_tumor": 8.553485531592742e-05
+  }
+ },
+ {
+  "file": "image(53).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(53).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.10945747047662735,
+   "meningioma_tumor": 0.46789729595184326,
+   "no_tumor": 0.4224698841571808,
+   "pituitary_tumor": 0.00017524206486996263
+  }
+ },
+ {
+  "file": "image(54).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(54).jpg",
+  "label": "no_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.8601270318031311,
+   "meningioma_tumor": 0.06753596663475037,
+   "no_tumor": 0.06208709254860878,
+   "pituitary_tumor": 0.010249965824186802
+  }
+ },
+ {
+  "file": "image(55).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(55).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.02436375431716442,
+   "meningioma_tumor": 0.15658968687057495,
+   "no_tumor": 0.819021463394165,
+   "pituitary_tumor": 2.508219586161431e-05
+  }
+ },
+ {
+  "file": "image(56).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(56).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.23824603855609894,
+   "meningioma_tumor": 0.2385316640138626,
+   "no_tumor": 0.5225837826728821,
+   "pituitary_tumor": 0.0006385910673998296
+  }
+ },
+ {
+  "file": "image(57).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(57).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.018863119184970856,
+   "meningioma_tumor": 0.40717190504074097,
+   "no_tumor": 0.547274112701416,
+   "pituitary_tumor": 0.026690812781453133
+  }
+ },
+ {
+  "file": "image(58).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(58).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.006093084812164307,
+   "meningioma_tumor": 0.033867280930280685,
+   "no_tumor": 0.9600388407707214,
+   "pituitary_tumor": 7.735395683994284e-07
+  }
+ },
+ {
+  "file": "image(59).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(59).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.23549427092075348,
+   "meningioma_tumor": 0.5789924263954163,
+   "no_tumor": 0.17982254922389984,
+   "pituitary_tumor": 0.005690773483365774
+  }
+ },
+ {
+  "file": "image(6).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(6).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0004341800231486559,
+   "meningioma_tumor": 0.0709119513630867,
+   "no_tumor": 0.9284914135932922,
+   "pituitary_tumor": 0.00016253870853688568
+  }
+ },
+ {
+  "file": "image(60).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(60).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.02436375431716442,
+   "meningioma_tumor": 0.15658968687057495,
+   "no_tumor": 0.819021463394165,
+   "pituitary_tumor": 2.508219586161431e-05
+  }
+ },
+ {
+  "file": "image(61).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(61).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 1.4375477803696413e-05,
+   "meningioma_tumor": 0.010187598876655102,
+   "no_tumor": 0.9897933006286621,
+   "pituitary_tumor": 4.684237410401693e-06
+  }
+ },
+ {
+  "file": "image(62).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(62).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.02710835263133049,
+   "meningioma_tumor": 0.42592760920524597,
+   "no_tumor": 0.5242088437080383,
+   "pituitary_tumor": 0.022755181416869164
+  }
+ },
+ {
+  "file": "image(63).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(63).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.00037823335151188076,
+   "meningioma_tumor": 0.0753415897488594,
+   "no_tumor": 0.9240975975990295,
+   "pituitary_tumor": 0.00018250443099532276
+  }
+ },
+ {
+  "file": "image(64).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(64).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0024253707379102707,
+   "meningioma_tumor": 0.28718650341033936,
+   "no_tumor": 0.701669454574585,
+   "pituitary_tumor": 0.008718611672520638
+  }
+ },
+ {
+  "file": "image(65).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(65).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.08673486113548279,
+   "meningioma_tumor": 0.532162070274353,
+   "no_tumor": 0.37951037287712097,
+   "pituitary_tumor": 0.0015926623018458486
+  }
+ },
+ {
+  "file": "image(66).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(66).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.012180227786302567,
+   "meningioma_tumor": 0.05469145625829697,
+   "no_tumor": 0.9329153895378113,
+   "pituitary_tumor": 0.00021301272499840707
+  }
+ },
+ {
+  "file": "image(67).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(67).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.10945747047662735,
+   "meningioma_tumor": 0.46789729595184326,
+   "no_tumor": 0.4224698841571808,
+   "pituitary_tumor": 0.00017524206486996263
+  }
+ },
+ {
+  "file": "image(68).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(68).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.18443013727664948,
+   "meningioma_tumor": 0.6550718545913696,
+   "no_tumor": 0.16029934585094452,
+   "pituitary_tumor": 0.0001986783609027043
+  }
+ },
+ {
+  "file": "image(69).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(69).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0010810690000653267,
+   "meningioma_tumor": 0.034674059599637985,
+   "no_tumor": 0.9642316699028015,
+   "pituitary_tumor": 1.3168570148991421e-05
+  }
+ },
+ {
+  "file": "image(7).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(7).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.006919373758137226,
+   "meningioma_tumor": 0.29603299498558044,
+   "no_tumor": 0.6555737853050232,
+   "pituitary_tumor": 0.04147382080554962
+  }
+ },
+ {
+  "file": "image(70).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(70).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 3.372692299308255e-05,
+   "meningioma_tumor": 0.01398716401308775,
+   "no_tumor": 0.9859776496887207,
+   "pituitary_tumor": 1.5155904975472367e-06
+  }
+ },
+ {
+  "file": "image(71).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(71).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 1.4375477803696413e-05,
+   "meningioma_tumor": 0.010187598876655102,
+   "no_tumor": 0.9897933006286621,
+   "pituitary_tumor": 4.684237410401693e-06
+  }
+ },
+ {
+  "file": "image(72).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(72).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0010588748846203089,
+   "meningioma_tumor": 0.1046922579407692,
+   "no_tumor": 0.867485761642456,
+   "pituitary_tumor": 0.026763157919049263
+  }
+ },
+ {
+  "file": "image(73).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(73).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.04076666757464409,
+   "meningioma_tumor": 0.39130863547325134,
+   "no_tumor": 0.5495358109474182,
+   "pituitary_tumor": 0.018388764932751656
+  }
+ },
+ {
+  "file": "image(74).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(74).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0003210334398318082,
+   "meningioma_tumor": 0.12109396606683731,
+   "no_tumor": 0.8765116333961487,
+   "pituitary_tumor": 0.002073359675705433
+  }
+ },
+ {
+  "file": "image(75).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(75).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 8.335259917657822e-05,
+   "meningioma_tumor": 0.014238221570849419,
+   "no_tumor": 0.9856768846511841,
+   "pituitary_tumor": 1.5414498193422332e-06
+  }
+ },
+ {
+  "file": "image(76).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(76).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.08756784349679947,
+   "meningioma_tumor": 0.5443932414054871,
+   "no_tumor": 0.366524338722229,
+   "pituitary_tumor": 0.0015145724173635244
+  }
+ },
+ {
+  "file": "image(77).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(77).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.002751109888777137,
+   "meningioma_tumor": 0.0978119745850563,
+   "no_tumor": 0.8903317451477051,
+   "pituitary_tumor": 0.009105144068598747
+  }
+ },
+ {
+  "file": "image(78).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(78).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0005427196738310158,
+   "meningioma_tumor": 0.012387420050799847,
+   "no_tumor": 0.9870021343231201,
+   "pituitary_tumor": 6.775555084459484e-05
+  }
+ },
+ {
+  "file": "image(79).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(79).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.36447539925575256,
+   "meningioma_tumor": 0.596981406211853,
+   "no_tumor": 0.023408368229866028,
+   "pituitary_tumor": 0.015134744346141815
+  }
+ },
+ {
+  "file": "image(8).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(8).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.00011871509195771068,
+   "meningioma_tumor": 0.019738083705306053,
+   "no_tumor": 0.9801392555236816,
+   "pituitary_tumor": 3.960783033107873e-06
+  }
+ },
+ {
+  "file": "image(80).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(80).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.11375977098941803,
+   "meningioma_tumor": 0.10357808321714401,
+   "no_tumor": 0.7824328541755676,
+   "pituitary_tumor": 0.00022927472309675068
+  }
+ },
+ {
+  "file": "image(81).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(81).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.012180227786302567,
+   "meningioma_tumor": 0.05469145625829697,
+   "no_tumor": 0.9329153895378113,
+   "pituitary_tumor": 0.00021301272499840707
+  }
+ },
+ {
+  "file": "image(82).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(82).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.048322100192308426,
+   "meningioma_tumor": 0.37222355604171753,
+   "no_tumor": 0.5556269288063049,
+   "pituitary_tumor": 0.023827334865927696
+  }
+ },
+ {
+  "file": "image(83).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(83).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0816023126244545,
+   "meningioma_tumor": 0.447138249874115,
+   "no_tumor": 0.43636786937713623,
+   "pituitary_tumor": 0.03489157184958458
+  }
+ },
+ {
+  "file": "image(84).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(84).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.10945747047662735,
+   "meningioma_tumor": 0.46789729595184326,
+   "no_tumor": 0.4224698841571808,
+   "pituitary_tumor": 0.00017524206486996263
+  }
+ },
+ {
+  "file": "image(85).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(85).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.024776507169008255,
+   "meningioma_tumor": 0.6353211998939514,
+   "no_tumor": 0.339831680059433,
+   "pituitary_tumor": 7.057208131300285e-05
+  }
+ },
+ {
+  "file": "image(86).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(86).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0008232012041844428,
+   "meningioma_tumor": 0.11674481630325317,
+   "no_tumor": 0.8578465580940247,
+   "pituitary_tumor": 0.024585427716374397
+  }
+ },
+ {
+  "file": "image(87).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(87).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.008463526144623756,
+   "meningioma_tumor": 0.32802751660346985,
+   "no_tumor": 0.5676329135894775,
+   "pituitary_tumor": 0.095876045525074
+  }
+ },
+ {
+  "file": "image(88).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(88).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 8.378301572520286e-05,
+   "meningioma_tumor": 0.02463941089808941,
+   "no_tumor": 0.9752705097198486,
+   "pituitary_tumor": 6.236014996829908e-06
+  }
+ },
+ {
+  "file": "image(89).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(89).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.16209417581558228,
+   "meningioma_tumor": 0.6313556432723999,
+   "no_tumor": 0.187887504696846,
+   "pituitary_tumor": 0.018662596121430397
+  }
+ },
+ {
+  "file": "image(9).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(9).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.11375977098941803,
+   "meningioma_tumor": 0.10357808321714401,
+   "no_tumor": 0.7824328541755676,
+   "pituitary_tumor": 0.00022927472309675068
+  }
+ },
+ {
+  "file": "image(90).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(90).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0005429023294709623,
+   "meningioma_tumor": 0.15707775950431824,
+   "no_tumor": 0.829840898513794,
+   "pituitary_tumor": 0.012538375332951546
+  }
+ },
+ {
+  "file": "image(91).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(91).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.023492319509387016,
+   "meningioma_tumor": 0.09484406560659409,
+   "no_tumor": 0.8814135789871216,
+   "pituitary_tumor": 0.00024992189719341695
+  }
+ },
+ {
+  "file": "image(92).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(92).jpg",
+  "label": "no_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.754486620426178,
+   "meningioma_tumor": 0.17598824203014374,
+   "no_tumor": 0.06835682690143585,
+   "pituitary_tumor": 0.0011682378826662898
+  }
+ },
+ {
+  "file": "image(93).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(93).jpg",
+  "label": "no_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.5162426829338074,
+   "meningioma_tumor": 0.20761844515800476,
+   "no_tumor": 0.2758788764476776,
+   "pituitary_tumor": 0.0002598920837044716
+  }
+ },
+ {
+  "file": "image(94).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(94).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.09470656514167786,
+   "meningioma_tumor": 0.4056027829647064,
+   "no_tumor": 0.4756263196468353,
+   "pituitary_tumor": 0.02406429313123226
+  }
+ },
+ {
+  "file": "image(95).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(95).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.009970154613256454,
+   "meningioma_tumor": 0.23005039989948273,
+   "no_tumor": 0.7495895028114319,
+   "pituitary_tumor": 0.010389977134764194
+  }
+ },
+ {
+  "file": "image(96).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(96).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0013334827963262796,
+   "meningioma_tumor": 0.1551235318183899,
+   "no_tumor": 0.8429700136184692,
+   "pituitary_tumor": 0.0005730281700380147
+  }
+ },
+ {
+  "file": "image(97).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(97).jpg",
+  "label": "no_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.08074294775724411,
+   "meningioma_tumor": 0.3910355269908905,
+   "no_tumor": 0.1711321324110031,
+   "pituitary_tumor": 0.35708943009376526
+  }
+ },
+ {
+  "file": "image(98).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(98).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 3.864091559080407e-05,
+   "meningioma_tumor": 0.013448679819703102,
+   "no_tumor": 0.9865027666091919,
+   "pituitary_tumor": 9.867119842965622e-06
+  }
+ },
+ {
+  "file": "image(99).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image(99).jpg",
+  "label": "no_tumor",
+  "pred": "no_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 9.095870336750522e-05,
+   "meningioma_tumor": 0.02579529955983162,
+   "no_tumor": 0.9740380048751831,
+   "pituitary_tumor": 7.57178568164818e-05
+  }
+ },
+ {
+  "file": "image.jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\no_tumor\\image.jpg",
+  "label": "no_tumor",
+  "pred": "glioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.5094923973083496,
+   "meningioma_tumor": 0.2689509689807892,
+   "no_tumor": 0.06154246628284454,
+   "pituitary_tumor": 0.16001422703266144
+  }
+ },
+ {
+  "file": "image(1).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(1).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.13191156089305878,
+   "meningioma_tumor": 0.4065840542316437,
+   "no_tumor": 0.017708178609609604,
+   "pituitary_tumor": 0.44379618763923645
+  }
+ },
+ {
+  "file": "image(10).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(10).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.036752838641405106,
+   "meningioma_tumor": 0.3810306191444397,
+   "no_tumor": 0.49681830406188965,
+   "pituitary_tumor": 0.08539824187755585
+  }
+ },
+ {
+  "file": "image(11).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(11).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.02325066365301609,
+   "meningioma_tumor": 0.29224076867103577,
+   "no_tumor": 0.40174683928489685,
+   "pituitary_tumor": 0.28276175260543823
+  }
+ },
+ {
+  "file": "image(13).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(13).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.00033175561111420393,
+   "meningioma_tumor": 0.06088017672300339,
+   "no_tumor": 0.07277457416057587,
+   "pituitary_tumor": 0.8660134673118591
+  }
+ },
+ {
+  "file": "image(15).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(15).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 2.5393492251168936e-05,
+   "meningioma_tumor": 0.0796409472823143,
+   "no_tumor": 0.9050570130348206,
+   "pituitary_tumor": 0.015276682563126087
+  }
+ },
+ {
+  "file": "image(18).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(18).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00014597908011637628,
+   "meningioma_tumor": 0.11542913317680359,
+   "no_tumor": 0.6224385499954224,
+   "pituitary_tumor": 0.2619864046573639
+  }
+ },
+ {
+  "file": "image(19).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(19).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.20616166293621063,
+   "meningioma_tumor": 0.6170592308044434,
+   "no_tumor": 0.04759799689054489,
+   "pituitary_tumor": 0.12918101251125336
+  }
+ },
+ {
+  "file": "image(2).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(2).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.13191156089305878,
+   "meningioma_tumor": 0.4065840542316437,
+   "no_tumor": 0.017708178609609604,
+   "pituitary_tumor": 0.44379618763923645
+  }
+ },
+ {
+  "file": "image(20).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(20).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.20616166293621063,
+   "meningioma_tumor": 0.6170592308044434,
+   "no_tumor": 0.04759799689054489,
+   "pituitary_tumor": 0.12918101251125336
+  }
+ },
+ {
+  "file": "image(21).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(21).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.20616166293621063,
+   "meningioma_tumor": 0.6170592308044434,
+   "no_tumor": 0.04759799689054489,
+   "pituitary_tumor": 0.12918101251125336
+  }
+ },
+ {
+  "file": "image(22).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(22).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.06518038362264633,
+   "meningioma_tumor": 0.405760794878006,
+   "no_tumor": 0.3716212809085846,
+   "pituitary_tumor": 0.15743756294250488
+  }
+ },
+ {
+  "file": "image(23).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(23).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.06518038362264633,
+   "meningioma_tumor": 0.405760794878006,
+   "no_tumor": 0.3716212809085846,
+   "pituitary_tumor": 0.15743756294250488
+  }
+ },
+ {
+  "file": "image(27).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(27).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.012187180109322071,
+   "meningioma_tumor": 0.3455664813518524,
+   "no_tumor": 0.5649723410606384,
+   "pituitary_tumor": 0.07727399468421936
+  }
+ },
+ {
+  "file": "image(28).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(28).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.012187180109322071,
+   "meningioma_tumor": 0.3455664813518524,
+   "no_tumor": 0.5649723410606384,
+   "pituitary_tumor": 0.07727399468421936
+  }
+ },
+ {
+  "file": "image(3).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(3).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.13191156089305878,
+   "meningioma_tumor": 0.4065840542316437,
+   "no_tumor": 0.017708178609609604,
+   "pituitary_tumor": 0.44379618763923645
+  }
+ },
+ {
+  "file": "image(30).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(30).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.20703916251659393,
+   "meningioma_tumor": 0.6268729567527771,
+   "no_tumor": 0.04908175766468048,
+   "pituitary_tumor": 0.11700606346130371
+  }
+ },
+ {
+  "file": "image(31).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(31).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 4.12038280046545e-05,
+   "meningioma_tumor": 0.07860968261957169,
+   "no_tumor": 0.9020839929580688,
+   "pituitary_tumor": 0.019265124574303627
+  }
+ },
+ {
+  "file": "image(34).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(34).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0020487476140260696,
+   "meningioma_tumor": 0.2094845175743103,
+   "no_tumor": 0.3733695447444916,
+   "pituitary_tumor": 0.4150972068309784
+  }
+ },
+ {
+  "file": "image(35).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(35).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.007647966034710407,
+   "meningioma_tumor": 0.19781312346458435,
+   "no_tumor": 0.2642384171485901,
+   "pituitary_tumor": 0.530300498008728
+  }
+ },
+ {
+  "file": "image(36).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(36).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.007647966034710407,
+   "meningioma_tumor": 0.19781312346458435,
+   "no_tumor": 0.2642384171485901,
+   "pituitary_tumor": 0.530300498008728
+  }
+ },
+ {
+  "file": "image(37).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(37).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.007647966034710407,
+   "meningioma_tumor": 0.19781312346458435,
+   "no_tumor": 0.2642384171485901,
+   "pituitary_tumor": 0.530300498008728
+  }
+ },
+ {
+  "file": "image(38).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(38).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.028138775378465652,
+   "meningioma_tumor": 0.31966403126716614,
+   "no_tumor": 0.49929118156433105,
+   "pituitary_tumor": 0.15290609002113342
+  }
+ },
+ {
+  "file": "image(41).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(41).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.000280132720945403,
+   "meningioma_tumor": 0.16155610978603363,
+   "no_tumor": 0.636080265045166,
+   "pituitary_tumor": 0.20208348333835602
+  }
+ },
+ {
+  "file": "image(42).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(42).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.000280132720945403,
+   "meningioma_tumor": 0.16155610978603363,
+   "no_tumor": 0.636080265045166,
+   "pituitary_tumor": 0.20208348333835602
+  }
+ },
+ {
+  "file": "image(43).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(43).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.000280132720945403,
+   "meningioma_tumor": 0.16155610978603363,
+   "no_tumor": 0.636080265045166,
+   "pituitary_tumor": 0.20208348333835602
+  }
+ },
+ {
+  "file": "image(44).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(44).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0012277476489543915,
+   "meningioma_tumor": 0.09731587022542953,
+   "no_tumor": 0.8997114300727844,
+   "pituitary_tumor": 0.001744962064549327
+  }
+ },
+ {
+  "file": "image(45).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(45).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0012277476489543915,
+   "meningioma_tumor": 0.09731587022542953,
+   "no_tumor": 0.8997114300727844,
+   "pituitary_tumor": 0.001744962064549327
+  }
+ },
+ {
+  "file": "image(46).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(46).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0012277476489543915,
+   "meningioma_tumor": 0.09731587022542953,
+   "no_tumor": 0.8997114300727844,
+   "pituitary_tumor": 0.001744962064549327
+  }
+ },
+ {
+  "file": "image(47).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(47).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0007860455079935491,
+   "meningioma_tumor": 0.015679869800806046,
+   "no_tumor": 0.0017961027333512902,
+   "pituitary_tumor": 0.9817379117012024
+  }
+ },
+ {
+  "file": "image(48).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(48).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0007860455079935491,
+   "meningioma_tumor": 0.015679869800806046,
+   "no_tumor": 0.0017961027333512902,
+   "pituitary_tumor": 0.9817379117012024
+  }
+ },
+ {
+  "file": "image(49).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(49).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0007860455079935491,
+   "meningioma_tumor": 0.015679869800806046,
+   "no_tumor": 0.0017961027333512902,
+   "pituitary_tumor": 0.9817379117012024
+  }
+ },
+ {
+  "file": "image(5).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(5).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.013989107683300972,
+   "meningioma_tumor": 0.30330416560173035,
+   "no_tumor": 0.43815019726753235,
+   "pituitary_tumor": 0.24455653131008148
+  }
+ },
+ {
+  "file": "image(51).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(51).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.028138775378465652,
+   "meningioma_tumor": 0.31966403126716614,
+   "no_tumor": 0.49929118156433105,
+   "pituitary_tumor": 0.15290609002113342
+  }
+ },
+ {
+  "file": "image(52).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(52).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.028138775378465652,
+   "meningioma_tumor": 0.31966403126716614,
+   "no_tumor": 0.49929118156433105,
+   "pituitary_tumor": 0.15290609002113342
+  }
+ },
+ {
+  "file": "image(53).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(53).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0011768584372475743,
+   "meningioma_tumor": 0.08929158747196198,
+   "no_tumor": 0.9081015586853027,
+   "pituitary_tumor": 0.0014300509355962276
+  }
+ },
+ {
+  "file": "image(54).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(54).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0011768584372475743,
+   "meningioma_tumor": 0.08929158747196198,
+   "no_tumor": 0.9081015586853027,
+   "pituitary_tumor": 0.0014300509355962276
+  }
+ },
+ {
+  "file": "image(55).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(55).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0011768584372475743,
+   "meningioma_tumor": 0.08929158747196198,
+   "no_tumor": 0.9081015586853027,
+   "pituitary_tumor": 0.0014300509355962276
+  }
+ },
+ {
+  "file": "image(56).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(56).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.022861452773213387,
+   "meningioma_tumor": 0.28497034311294556,
+   "no_tumor": 0.43676334619522095,
+   "pituitary_tumor": 0.25540482997894287
+  }
+ },
+ {
+  "file": "image(57).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(57).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.022861452773213387,
+   "meningioma_tumor": 0.28497034311294556,
+   "no_tumor": 0.43676334619522095,
+   "pituitary_tumor": 0.25540482997894287
+  }
+ },
+ {
+  "file": "image(6).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(6).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.013989107683300972,
+   "meningioma_tumor": 0.30330416560173035,
+   "no_tumor": 0.43815019726753235,
+   "pituitary_tumor": 0.24455653131008148
+  }
+ },
+ {
+  "file": "image(60).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(60).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0002073721552733332,
+   "meningioma_tumor": 0.1588791012763977,
+   "no_tumor": 0.6771358251571655,
+   "pituitary_tumor": 0.16377770900726318
+  }
+ },
+ {
+  "file": "image(61).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(61).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.0002073721552733332,
+   "meningioma_tumor": 0.1588791012763977,
+   "no_tumor": 0.6771358251571655,
+   "pituitary_tumor": 0.16377770900726318
+  }
+ },
+ {
+  "file": "image(63).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(63).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0008686621440574527,
+   "meningioma_tumor": 0.0625668540596962,
+   "no_tumor": 0.03566238284111023,
+   "pituitary_tumor": 0.9009021520614624
+  }
+ },
+ {
+  "file": "image(64).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(64).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0008686621440574527,
+   "meningioma_tumor": 0.0625668540596962,
+   "no_tumor": 0.03566238284111023,
+   "pituitary_tumor": 0.9009021520614624
+  }
+ },
+ {
+  "file": "image(65).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(65).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.004949913825839758,
+   "meningioma_tumor": 0.28774914145469666,
+   "no_tumor": 0.6987667679786682,
+   "pituitary_tumor": 0.008534143678843975
+  }
+ },
+ {
+  "file": "image(66).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(66).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.004949913825839758,
+   "meningioma_tumor": 0.28774914145469666,
+   "no_tumor": 0.6987667679786682,
+   "pituitary_tumor": 0.008534143678843975
+  }
+ },
+ {
+  "file": "image(67).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(67).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.008542170748114586,
+   "meningioma_tumor": 0.10839162766933441,
+   "no_tumor": 0.09259839355945587,
+   "pituitary_tumor": 0.7904677987098694
+  }
+ },
+ {
+  "file": "image(68).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(68).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.008542170748114586,
+   "meningioma_tumor": 0.10839162766933441,
+   "no_tumor": 0.09259839355945587,
+   "pituitary_tumor": 0.7904677987098694
+  }
+ },
+ {
+  "file": "image(69).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(69).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00016307886107824743,
+   "meningioma_tumor": 0.154539093375206,
+   "no_tumor": 0.708064615726471,
+   "pituitary_tumor": 0.1372331976890564
+  }
+ },
+ {
+  "file": "image(7).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(7).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.18801838159561157,
+   "meningioma_tumor": 0.29671570658683777,
+   "no_tumor": 0.3322644829750061,
+   "pituitary_tumor": 0.18300151824951172
+  }
+ },
+ {
+  "file": "image(70).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(70).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00016307886107824743,
+   "meningioma_tumor": 0.154539093375206,
+   "no_tumor": 0.708064615726471,
+   "pituitary_tumor": 0.1372331976890564
+  }
+ },
+ {
+  "file": "image(73).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(73).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.1594172567129135,
+   "meningioma_tumor": 0.6962729096412659,
+   "no_tumor": 0.08465032279491425,
+   "pituitary_tumor": 0.059659603983163834
+  }
+ },
+ {
+  "file": "image(76).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(76).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.21683476865291595,
+   "meningioma_tumor": 0.732139527797699,
+   "no_tumor": 0.04775052145123482,
+   "pituitary_tumor": 0.0032751671969890594
+  }
+ },
+ {
+  "file": "image(77).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(77).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.21683476865291595,
+   "meningioma_tumor": 0.732139527797699,
+   "no_tumor": 0.04775052145123482,
+   "pituitary_tumor": 0.0032751671969890594
+  }
+ },
+ {
+  "file": "image(78).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(78).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.21683476865291595,
+   "meningioma_tumor": 0.732139527797699,
+   "no_tumor": 0.04775052145123482,
+   "pituitary_tumor": 0.0032751671969890594
+  }
+ },
+ {
+  "file": "image(79).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(79).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.1831100881099701,
+   "meningioma_tumor": 0.6733973622322083,
+   "no_tumor": 0.09998893737792969,
+   "pituitary_tumor": 0.043503545224666595
+  }
+ },
+ {
+  "file": "image(8).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(8).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.18801838159561157,
+   "meningioma_tumor": 0.29671570658683777,
+   "no_tumor": 0.3322644829750061,
+   "pituitary_tumor": 0.18300151824951172
+  }
+ },
+ {
+  "file": "image(81).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(81).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.3094234764575958,
+   "meningioma_tumor": 0.5738831162452698,
+   "no_tumor": 0.1036224514245987,
+   "pituitary_tumor": 0.013070945627987385
+  }
+ },
+ {
+  "file": "image(82).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(82).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.3094234764575958,
+   "meningioma_tumor": 0.5738831162452698,
+   "no_tumor": 0.1036224514245987,
+   "pituitary_tumor": 0.013070945627987385
+  }
+ },
+ {
+  "file": "image(85).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(85).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0482800267636776,
+   "meningioma_tumor": 0.3828105926513672,
+   "no_tumor": 0.086845763027668,
+   "pituitary_tumor": 0.48206356167793274
+  }
+ },
+ {
+  "file": "image(86).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(86).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0482800267636776,
+   "meningioma_tumor": 0.3828105926513672,
+   "no_tumor": 0.086845763027668,
+   "pituitary_tumor": 0.48206356167793274
+  }
+ },
+ {
+  "file": "image(87).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(87).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.2220122367143631,
+   "meningioma_tumor": 0.46076828241348267,
+   "no_tumor": 0.09247295558452606,
+   "pituitary_tumor": 0.2247464805841446
+  }
+ },
+ {
+  "file": "image(88).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(88).jpg",
+  "label": "pituitary_tumor",
+  "pred": "meningioma_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.2220122367143631,
+   "meningioma_tumor": 0.46076828241348267,
+   "no_tumor": 0.09247295558452606,
+   "pituitary_tumor": 0.2247464805841446
+  }
+ },
+ {
+  "file": "image(89).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(89).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00025993550661951303,
+   "meningioma_tumor": 0.09366290271282196,
+   "no_tumor": 0.8461427688598633,
+   "pituitary_tumor": 0.059934426099061966
+  }
+ },
+ {
+  "file": "image(90).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(90).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00025993550661951303,
+   "meningioma_tumor": 0.09366290271282196,
+   "no_tumor": 0.8461427688598633,
+   "pituitary_tumor": 0.059934426099061966
+  }
+ },
+ {
+  "file": "image(91).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(91).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.00025993550661951303,
+   "meningioma_tumor": 0.09366290271282196,
+   "no_tumor": 0.8461427688598633,
+   "pituitary_tumor": 0.059934426099061966
+  }
+ },
+ {
+  "file": "image(92).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(92).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.006972011178731918,
+   "meningioma_tumor": 0.27855926752090454,
+   "no_tumor": 0.4672616422176361,
+   "pituitary_tumor": 0.24720703065395355
+  }
+ },
+ {
+  "file": "image(93).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(93).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.006972011178731918,
+   "meningioma_tumor": 0.27855926752090454,
+   "no_tumor": 0.4672616422176361,
+   "pituitary_tumor": 0.24720703065395355
+  }
+ },
+ {
+  "file": "image(94).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(94).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0043144067749381065,
+   "meningioma_tumor": 0.16309846937656403,
+   "no_tumor": 0.1881876140832901,
+   "pituitary_tumor": 0.6443995237350464
+  }
+ },
+ {
+  "file": "image(95).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(95).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0043144067749381065,
+   "meningioma_tumor": 0.16309846937656403,
+   "no_tumor": 0.1881876140832901,
+   "pituitary_tumor": 0.6443995237350464
+  }
+ },
+ {
+  "file": "image(96).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(96).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.006972011178731918,
+   "meningioma_tumor": 0.27855926752090454,
+   "no_tumor": 0.4672616422176361,
+   "pituitary_tumor": 0.24720703065395355
+  }
+ },
+ {
+  "file": "image(97).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(97).jpg",
+  "label": "pituitary_tumor",
+  "pred": "no_tumor",
+  "correct": false,
+  "probs": {
+   "glioma_tumor": 0.006972011178731918,
+   "meningioma_tumor": 0.27855926752090454,
+   "no_tumor": 0.4672616422176361,
+   "pituitary_tumor": 0.24720703065395355
+  }
+ },
+ {
+  "file": "image(98).jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image(98).jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0023968315217643976,
+   "meningioma_tumor": 0.08124314248561859,
+   "no_tumor": 0.04075559973716736,
+   "pituitary_tumor": 0.875604510307312
+  }
+ },
+ {
+  "file": "image.jpg",
+  "path": "H:\\um\u8bfe\u7a0b\\Semester 1\\7009 XAI\\ass2-indi\\xai-series\\data\\brain_mri\\testing\\pituitary_tumor\\image.jpg",
+  "label": "pituitary_tumor",
+  "pred": "pituitary_tumor",
+  "correct": true,
+  "probs": {
+   "glioma_tumor": 0.0482800267636776,
+   "meningioma_tumor": 0.3828105330467224,
+   "no_tumor": 0.086845763027668,
+   "pituitary_tumor": 0.48206356167793274
+  }
+ }
+]

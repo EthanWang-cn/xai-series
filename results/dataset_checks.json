@@ -1,0 +1,771 @@
+{
+ "per_class": {
+  "training": {
+   "glioma_tumor": 826,
+   "meningioma_tumor": 822,
+   "no_tumor": 395,
+   "pituitary_tumor": 827
+  },
+  "testing": {
+   "glioma_tumor": 100,
+   "meningioma_tumor": 115,
+   "no_tumor": 105,
+   "pituitary_tumor": 74
+  }
+ },
+ "totals": {
+  "training": 2870,
+  "testing": 394
+ },
+ "unreadable": [],
+ "image_modes": {
+  "RGB": 3264
+ },
+ "top_image_sizes": {
+  "(512, 512)": 2341,
+  "(236, 236)": 79,
+  "(225, 225)": 43,
+  "(442, 442)": 22,
+  "(256, 256)": 18
+ },
+ "distinct_files": 3027,
+ "duplicates_within_split": {
+  "e0899a5f9770bbf1afb1d32f5ed7bd48": [
+   "training/glioma_tumor/gg (104).jpg",
+   "training/glioma_tumor/gg (86).jpg"
+  ],
+  "298899fe10bce8a89a9722c0ec89b9c5": [
+   "training/glioma_tumor/gg (126).jpg",
+   "training/glioma_tumor/gg (2).jpg"
+  ],
+  "7298253b17456daa2f28860f86e91379": [
+   "training/glioma_tumor/gg (162).jpg",
+   "training/glioma_tumor/gg (184).jpg"
+  ],
+  "8af18ac382030f4e1a749aed13452a61": [
+   "training/glioma_tumor/gg (271).jpg",
+   "training/glioma_tumor/gg (272).jpg"
+  ],
+  "3e39539f2792b35062fdb5525ff22c6e": [
+   "training/glioma_tumor/gg (289).jpg",
+   "training/glioma_tumor/gg (294).jpg"
+  ],
+  "4075e16d119630822e97e0462cf29abc": [
+   "training/glioma_tumor/gg (335).jpg",
+   "training/glioma_tumor/gg (336).jpg"
+  ],
+  "61388b0e333fe750b3bd0c7912846625": [
+   "training/glioma_tumor/gg (629).jpg",
+   "training/glioma_tumor/gg (649).jpg"
+  ],
+  "4cef6bb560c79d728e5ebf1ae4deee7c": [
+   "training/glioma_tumor/gg (762).jpg",
+   "training/glioma_tumor/gg (763).jpg"
+  ],
+  "b0481c04cf82055b53bed325556f744e": [
+   "training/meningioma_tumor/m (182).jpg",
+   "training/meningioma_tumor/m (183).jpg"
+  ],
+  "ab525628d00898aa6b1088d9c1d5a785": [
+   "training/meningioma_tumor/m1(100).jpg",
+   "training/meningioma_tumor/m1(200).jpg"
+  ],
+  "af3a4cf5d54bd454b733bfe3d2177b4a": [
+   "training/meningioma_tumor/m1(101).jpg",
+   "training/meningioma_tumor/m1(134).jpg",
+   "training/meningioma_tumor/m1(98).jpg"
+  ],
+  "a501e6ea3748d3aebea8e8735268ec5b": [
+   "training/meningioma_tumor/m1(15).jpg",
+   "training/meningioma_tumor/m1(16).jpg"
+  ],
+  "333ca271271562e025951545e76a8b0b": [
+   "training/meningioma_tumor/m1(170).jpg",
+   "training/meningioma_tumor/m1(172).jpg"
+  ],
+  "3cb1d6594ea1a7391608e9bc8245529c": [
+   "training/meningioma_tumor/m1(2).jpg",
+   "training/meningioma_tumor/m1(202).jpg"
+  ],
+  "832c3e0243e8fafe4313d899e233285d": [
+   "training/meningioma_tumor/m3 (164).jpg",
+   "training/meningioma_tumor/m3 (165).jpg"
+  ],
+  "5474914546a6267f70286341ef9c9052": [
+   "training/no_tumor/6.jpg",
+   "training/no_tumor/image (31).jpg"
+  ],
+  "f4b4f54022e5d07d1cfecf6868492299": [
+   "training/no_tumor/image (13).jpg",
+   "training/no_tumor/image (14).jpg",
+   "training/no_tumor/image (26).jpg"
+  ],
+  "e0e9fee7b1fe0b3a4fc4af3189e2dc1f": [
+   "training/no_tumor/image (15).jpg",
+   "training/no_tumor/image (16).jpg"
+  ],
+  "b9504d1f84629a48b2de81a52aa0468a": [
+   "training/no_tumor/image(101).jpg",
+   "training/no_tumor/image(106).jpg"
+  ],
+  "6142acdc1f1b32e31ea0f73324b5f356": [
+   "training/no_tumor/image(102).jpg",
+   "training/no_tumor/image(107).jpg"
+  ],
+  "208670d4d74e93c59795a71a6e8edaf1": [
+   "training/no_tumor/image(103).jpg",
+   "training/no_tumor/image(108).jpg"
+  ],
+  "ddc6fd51d45cb3a708c10fb921485ce9": [
+   "training/no_tumor/image(105).jpg",
+   "training/no_tumor/image(110).jpg"
+  ],
+  "33545775c68d06694c0cd52a399584a7": [
+   "training/no_tumor/image(127).jpg",
+   "training/no_tumor/image(200).jpg"
+  ],
+  "25faac854458973ea07975165f80c035": [
+   "training/no_tumor/image(138).jpg",
+   "training/no_tumor/image(181).jpg"
+  ],
+  "bbe4e3817fcf574daf45adf8a2915106": [
+   "training/no_tumor/image(142).jpg",
+   "training/no_tumor/image(155).jpg",
+   "training/no_tumor/image(157).jpg"
+  ],
+  "24e83deaaae9ab0f15565690e474f5fc": [
+   "training/no_tumor/image(143).jpg",
+   "training/no_tumor/image(156).jpg",
+   "training/no_tumor/image(73).jpg",
+   "training/no_tumor/image(76).jpg"
+  ],
+  "1f23dacaac228811e45af94981be031c": [
+   "training/no_tumor/image(144).jpg",
+   "training/no_tumor/image(149).jpg",
+   "training/no_tumor/image(160).jpg"
+  ],
+  "d966ed9f01d9fac152e7a4bed63ac281": [
+   "training/no_tumor/image(145).jpg",
+   "training/no_tumor/image(148).jpg"
+  ],
+  "1829d716613d6d3022da2f82368071ae": [
+   "training/no_tumor/image(146).jpg",
+   "training/no_tumor/image(150).jpg",
+   "training/no_tumor/image(72).jpg",
+   "training/no_tumor/image(75).jpg"
+  ],
+  "665bf16ea1489fb798ee0dd3acaade79": [
+   "training/no_tumor/image(153).jpg",
+   "training/no_tumor/image(161).jpg"
+  ],
+  "60e765179ae22c1d69cb6c1233f17354": [
+   "training/no_tumor/image(158).jpg",
+   "training/no_tumor/image(77).jpg"
+  ],
+  "e450fb2bea94fad366ddebacbe26a4bb": [
+   "training/no_tumor/image(164).jpg",
+   "training/no_tumor/image(239).jpg"
+  ],
+  "b6ce0a54d799d61f77617809c5e78ef2": [
+   "training/no_tumor/image(166).jpg",
+   "training/no_tumor/image(167).jpg",
+   "training/no_tumor/image(172).jpg"
+  ],
+  "fe2231f523d6d1cabd4670f11b829773": [
+   "training/no_tumor/image(168).jpg",
+   "training/no_tumor/image(302).jpg"
+  ],
+  "19e1c11270a5105459a8f52090262d4a": [
+   "training/no_tumor/image(169).jpg",
+   "training/no_tumor/image(201).jpg"
+  ],
+  "7108f7b2a94c8401f13dae47f666b4e1": [
+   "training/no_tumor/image(173).jpg",
+   "training/no_tumor/image(186).jpg",
+   "training/no_tumor/image(256).jpg"
+  ],
+  "4a22015417b3ab93cd89679e4fa22129": [
+   "training/no_tumor/image(177).jpg",
+   "training/no_tumor/image(251).jpg"
+  ],
+  "61d0aeacb5768eca8d91ed7915c5648b": [
+   "training/no_tumor/image(195).jpg",
+   "training/no_tumor/image(208).jpg"
+  ],
+  "9eb9f2c929d940f7333441cf7301f205": [
+   "training/no_tumor/image(204).jpg",
+   "training/no_tumor/image(206).jpg"
+  ],
+  "46bdd15e88da99beefcb999aea360457": [
+   "training/no_tumor/image(211).jpg",
+   "training/no_tumor/image(235).jpg"
+  ],
+  "d5f0f355c306acc7712226cd99f60ef6": [
+   "training/no_tumor/image(212).jpg",
+   "training/no_tumor/image(218).jpg"
+  ],
+  "78c6f2102e0ba73c47a344d2880b4071": [
+   "training/no_tumor/image(213).jpg",
+   "training/no_tumor/image(244).jpg"
+  ],
+  "0cc82102690c7ecbba7b211e9dca4da6": [
+   "training/no_tumor/image(215).jpg",
+   "training/no_tumor/image(287).jpg"
+  ],
+  "d9c32d64bae1e0350522351c6a7cea0b": [
+   "training/no_tumor/image(246).jpg",
+   "training/no_tumor/image(306).jpg"
+  ],
+  "46e6159f43133d0a4739a0f84fa10411": [
+   "training/no_tumor/image(249).jpg",
+   "training/no_tumor/image(253).jpg"
+  ],
+  "e89ab6994c617c31786bfff5c406d0ab": [
+   "training/no_tumor/image(252).jpg",
+   "training/no_tumor/image(279).jpg"
+  ],
+  "342b29d63e0103afbe3fab52b8536af2": [
+   "training/no_tumor/image(276).jpg",
+   "training/no_tumor/image(281).jpg"
+  ],
+  "99e0890275f773a6baa17d02fc0bdefb": [
+   "training/pituitary_tumor/p (140).jpg",
+   "training/pituitary_tumor/p (240).jpg"
+  ],
+  "b612aa0d702020c3dd896f4294000a02": [
+   "training/pituitary_tumor/p (196).jpg",
+   "training/pituitary_tumor/p (197).jpg"
+  ],
+  "7aace426ed99cbee63e3f7fb55465590": [
+   "training/pituitary_tumor/p (242).jpg",
+   "training/pituitary_tumor/p (243).jpg"
+  ],
+  "9ac2bb858e51e57e9652feba3728004e": [
+   "training/pituitary_tumor/p (251).jpg",
+   "training/pituitary_tumor/p (252).jpg"
+  ],
+  "690f2c41084c1b8727b1c51812153004": [
+   "training/pituitary_tumor/p (302).jpg",
+   "training/pituitary_tumor/p (303).jpg"
+  ],
+  "15cf7ebeefbbb7e57abf759acc3af7ef": [
+   "training/pituitary_tumor/p (388).jpg",
+   "training/pituitary_tumor/p (389).jpg"
+  ],
+  "406052e058bc64ffed1f9c9e2b65687c": [
+   "training/pituitary_tumor/p (407).jpg",
+   "training/pituitary_tumor/p (408).jpg"
+  ],
+  "a28c0aaf1e5ee802731aef2571094300": [
+   "training/pituitary_tumor/p (565).jpg",
+   "training/pituitary_tumor/p (566).jpg",
+   "training/pituitary_tumor/p (567).jpg",
+   "training/pituitary_tumor/p (568).jpg"
+  ],
+  "05c3caea567ffd77caf79c12654b87e5": [
+   "training/pituitary_tumor/p (578).jpg",
+   "training/pituitary_tumor/p (579).jpg",
+   "training/pituitary_tumor/p (580).jpg"
+  ],
+  "669562a698a0159bde95c5e3bee8077d": [
+   "training/pituitary_tumor/p (737).jpg",
+   "training/pituitary_tumor/p (738).jpg"
+  ],
+  "684f3a8c6a38c754af74fe7d91396131": [
+   "training/pituitary_tumor/p (741).jpg",
+   "training/pituitary_tumor/p (742).jpg"
+  ],
+  "667db113b8954435f1ceab3122f5b296": [
+   "training/pituitary_tumor/p (751).jpg",
+   "training/pituitary_tumor/p (752).jpg"
+  ],
+  "584ca4664acb9536e369e49eb98239ad": [
+   "training/pituitary_tumor/p (780).jpg",
+   "training/pituitary_tumor/p (781).jpg"
+  ],
+  "3326fd02a76cf696c9679794f3aaf14b": [
+   "training/pituitary_tumor/p (825).jpg",
+   "training/pituitary_tumor/p (826).jpg"
+  ],
+  "aad6ada8842d077e0ee00bd535f5e3f8": [
+   "testing/glioma_tumor/image(1).jpg",
+   "testing/glioma_tumor/image.jpg"
+  ],
+  "845ff201c07a82cd2356769078f83eae": [
+   "testing/glioma_tumor/image(11).jpg",
+   "testing/glioma_tumor/image(12).jpg",
+   "testing/glioma_tumor/image(90).jpg"
+  ],
+  "557074c0f2215c6453fd61461aafc59a": [
+   "testing/glioma_tumor/image(21).jpg",
+   "testing/glioma_tumor/image(95).jpg"
+  ],
+  "4dc9e3b56a99b7455036ca9247c82817": [
+   "testing/glioma_tumor/image(26).jpg",
+   "testing/glioma_tumor/image(97).jpg"
+  ],
+  "ed5bb419a8e804fcf2cf33439ed08752": [
+   "testing/glioma_tumor/image(28).jpg",
+   "testing/glioma_tumor/image(29).jpg",
+   "testing/glioma_tumor/image(79).jpg"
+  ],
+  "716882598588e4671a4cb50eadfc5b88": [
+   "testing/glioma_tumor/image(3).jpg",
+   "testing/glioma_tumor/image(6).jpg"
+  ],
+  "ee6e22476c4f669b43d82fa9f5ab2abf": [
+   "testing/glioma_tumor/image(30).jpg",
+   "testing/glioma_tumor/image(84).jpg"
+  ],
+  "34d3fec0def3da3459c5f1596f059aef": [
+   "testing/glioma_tumor/image(31).jpg",
+   "testing/glioma_tumor/image(46).jpg"
+  ],
+  "7aec05f6498b98fca1451348adec402c": [
+   "testing/glioma_tumor/image(50).jpg",
+   "testing/glioma_tumor/image(55).jpg"
+  ],
+  "caab5859588132c3ebb1fbbfa853e944": [
+   "testing/glioma_tumor/image(64).jpg",
+   "testing/glioma_tumor/image(65).jpg"
+  ],
+  "f998e6cf91b2d4ae9d464510ba184a4f": [
+   "testing/glioma_tumor/image(70).jpg",
+   "testing/glioma_tumor/image(71).jpg"
+  ],
+  "270039de9ae75d069b6360f6b23c0b8b": [
+   "testing/glioma_tumor/image(77).jpg",
+   "testing/glioma_tumor/image(80).jpg"
+  ],
+  "252314e70476470af7835cdfd70bac92": [
+   "testing/glioma_tumor/image(93).jpg",
+   "testing/glioma_tumor/image(94).jpg"
+  ],
+  "cfe978f4870cfc42980c522bf749de92": [
+   "testing/glioma_tumor/image(98).jpg",
+   "testing/glioma_tumor/image(99).jpg"
+  ],
+  "698ac9e379771e54f2dd985b1d58f8dd": [
+   "testing/meningioma_tumor/image(118).jpg",
+   "testing/meningioma_tumor/image(24).jpg"
+  ],
+  "784114ee48882bf1b8b7b92a559da83d": [
+   "testing/meningioma_tumor/image(60).jpg",
+   "testing/meningioma_tumor/image(62).jpg"
+  ],
+  "5f60bd5d9e492ec2ff3e37f8d1e16f72": [
+   "testing/pituitary_tumor/image(1).jpg",
+   "testing/pituitary_tumor/image(2).jpg",
+   "testing/pituitary_tumor/image(3).jpg"
+  ],
+  "01d9c4f0c4a8dc02c914a991c7901d2d": [
+   "testing/pituitary_tumor/image(19).jpg",
+   "testing/pituitary_tumor/image(20).jpg",
+   "testing/pituitary_tumor/image(21).jpg"
+  ],
+  "18e321d09b981d25ca45246aa087642f": [
+   "testing/pituitary_tumor/image(22).jpg",
+   "testing/pituitary_tumor/image(23).jpg"
+  ],
+  "1e71144f7671f7060810a7a020c8781a": [
+   "testing/pituitary_tumor/image(27).jpg",
+   "testing/pituitary_tumor/image(28).jpg"
+  ],
+  "37d9b2e8f32519fba8e67ef120bb343e": [
+   "testing/pituitary_tumor/image(35).jpg",
+   "testing/pituitary_tumor/image(36).jpg",
+   "testing/pituitary_tumor/image(37).jpg"
+  ],
+  "37f42c6a8b3782e3fe33c00e570ad7fe": [
+   "testing/pituitary_tumor/image(38).jpg",
+   "testing/pituitary_tumor/image(51).jpg",
+   "testing/pituitary_tumor/image(52).jpg"
+  ],
+  "72767d52cc2aad37a5cfb24ff23bb06a": [
+   "testing/pituitary_tumor/image(41).jpg",
+   "testing/pituitary_tumor/image(42).jpg",
+   "testing/pituitary_tumor/image(43).jpg"
+  ],
+  "6c9fee8d2f733b06b500a0ab9d0c3fd3": [
+   "testing/pituitary_tumor/image(44).jpg",
+   "testing/pituitary_tumor/image(45).jpg",
+   "testing/pituitary_tumor/image(46).jpg"
+  ],
+  "b7f875bedfac719015cc81bc888151b3": [
+   "testing/pituitary_tumor/image(47).jpg",
+   "testing/pituitary_tumor/image(48).jpg",
+   "testing/pituitary_tumor/image(49).jpg"
+  ],
+  "16f8ae9d22c737280f03cbf13d1faefc": [
+   "testing/pituitary_tumor/image(5).jpg",
+   "testing/pituitary_tumor/image(6).jpg"
+  ],
+  "45e8c308a42e1995239b2934f71bace3": [
+   "testing/pituitary_tumor/image(53).jpg",
+   "testing/pituitary_tumor/image(54).jpg",
+   "testing/pituitary_tumor/image(55).jpg"
+  ],
+  "37467cc9d034a9213e185a0790a0a6b3": [
+   "testing/pituitary_tumor/image(56).jpg",
+   "testing/pituitary_tumor/image(57).jpg"
+  ],
+  "4e5a8e1b13dce709484145eb0ac3ce70": [
+   "testing/pituitary_tumor/image(60).jpg",
+   "testing/pituitary_tumor/image(61).jpg"
+  ],
+  "ca3ad7e6cd4825a0d5cff84d11757bed": [
+   "testing/pituitary_tumor/image(63).jpg",
+   "testing/pituitary_tumor/image(64).jpg"
+  ],
+  "00748c6aaa5c199b07f8fa7140fc19c1": [
+   "testing/pituitary_tumor/image(65).jpg",
+   "testing/pituitary_tumor/image(66).jpg"
+  ],
+  "3665fdf79547807d98e5053427a45a98": [
+   "testing/pituitary_tumor/image(67).jpg",
+   "testing/pituitary_tumor/image(68).jpg"
+  ],
+  "58e47a3e12d09d40c54a8672b481c175": [
+   "testing/pituitary_tumor/image(69).jpg",
+   "testing/pituitary_tumor/image(70).jpg"
+  ],
+  "5ecd815d2e03c77cb68621e673289cea": [
+   "testing/pituitary_tumor/image(7).jpg",
+   "testing/pituitary_tumor/image(8).jpg"
+  ],
+  "51e083128ee310d25cab89a4b175624b": [
+   "testing/pituitary_tumor/image(76).jpg",
+   "testing/pituitary_tumor/image(77).jpg",
+   "testing/pituitary_tumor/image(78).jpg"
+  ],
+  "b6276f725b9a3661ea24de2d01adf881": [
+   "testing/pituitary_tumor/image(81).jpg",
+   "testing/pituitary_tumor/image(82).jpg"
+  ],
+  "0140560cc9a91abc3e62e9e1bec6c5ea": [
+   "testing/pituitary_tumor/image(85).jpg",
+   "testing/pituitary_tumor/image(86).jpg",
+   "testing/pituitary_tumor/image.jpg"
+  ],
+  "008c98403b057fc344bf0a9f2e7de6c2": [
+   "testing/pituitary_tumor/image(87).jpg",
+   "testing/pituitary_tumor/image(88).jpg"
+  ],
+  "dcd64c030193c4b3a8a69460e4906807": [
+   "testing/pituitary_tumor/image(89).jpg",
+   "testing/pituitary_tumor/image(90).jpg",
+   "testing/pituitary_tumor/image(91).jpg"
+  ],
+  "e3ba2a330b921704ecae3a47624106e3": [
+   "testing/pituitary_tumor/image(92).jpg",
+   "testing/pituitary_tumor/image(93).jpg",
+   "testing/pituitary_tumor/image(96).jpg",
+   "testing/pituitary_tumor/image(97).jpg"
+  ],
+  "680022005ea0acdf17c86efc8f81b931": [
+   "testing/pituitary_tumor/image(94).jpg",
+   "testing/pituitary_tumor/image(95).jpg"
+  ]
+ },
+ "duplicates_across_split": [
+  [
+   "training/no_tumor/image(1).jpg",
+   "training/no_tumor/image(48).jpg",
+   "testing/no_tumor/image(25).jpg",
+   "testing/no_tumor/image(73).jpg"
+  ],
+  [
+   "training/no_tumor/image(10).jpg",
+   "testing/no_tumor/image(35).jpg"
+  ],
+  [
+   "training/no_tumor/image(11).jpg",
+   "testing/no_tumor/image(36).jpg"
+  ],
+  [
+   "training/no_tumor/image(12).jpg",
+   "training/no_tumor/image(54).jpg",
+   "testing/no_tumor/image(37).jpg",
+   "testing/no_tumor/image(79).jpg"
+  ],
+  [
+   "training/no_tumor/image(13).jpg",
+   "testing/no_tumor/image(38).jpg"
+  ],
+  [
+   "training/no_tumor/image(14).jpg",
+   "testing/no_tumor/image(39).jpg"
+  ],
+  [
+   "training/no_tumor/image(15).jpg",
+   "testing/no_tumor/image(40).jpg"
+  ],
+  [
+   "training/no_tumor/image(16).jpg",
+   "training/no_tumor/image(27).jpg",
+   "testing/no_tumor/image(41).jpg",
+   "testing/no_tumor/image(52).jpg"
+  ],
+  [
+   "training/no_tumor/image(17).jpg",
+   "testing/no_tumor/image(42).jpg"
+  ],
+  [
+   "training/no_tumor/image(171).jpg",
+   "training/no_tumor/image(238).jpg",
+   "training/no_tumor/image(292).jpg",
+   "training/no_tumor/image(53).jpg",
+   "testing/no_tumor/image(78).jpg"
+  ],
+  [
+   "training/no_tumor/image(18).jpg",
+   "testing/no_tumor/image(43).jpg"
+  ],
+  [
+   "training/no_tumor/image(19).jpg",
+   "testing/no_tumor/image(44).jpg"
+  ],
+  [
+   "training/no_tumor/image(2).jpg",
+   "testing/no_tumor/image(26).jpg"
+  ],
+  [
+   "training/no_tumor/image(20).jpg",
+   "training/no_tumor/image(30).jpg",
+   "training/no_tumor/image(35).jpg",
+   "testing/no_tumor/image(16).jpg",
+   "testing/no_tumor/image(45).jpg",
+   "testing/no_tumor/image(55).jpg",
+   "testing/no_tumor/image(60).jpg"
+  ],
+  [
+   "training/no_tumor/image(21).jpg",
+   "training/no_tumor/image(25).jpg",
+   "training/no_tumor/image(29).jpg",
+   "testing/no_tumor/image(46).jpg",
+   "testing/no_tumor/image(50).jpg",
+   "testing/no_tumor/image(54).jpg"
+  ],
+  [
+   "training/no_tumor/image(22).jpg",
+   "testing/no_tumor/image(47).jpg"
+  ],
+  [
+   "training/no_tumor/image(23).jpg",
+   "training/no_tumor/image(50).jpg",
+   "testing/no_tumor/image(48).jpg",
+   "testing/no_tumor/image(75).jpg"
+  ],
+  [
+   "training/no_tumor/image(24).jpg",
+   "training/no_tumor/image(28).jpg",
+   "training/no_tumor/image(42).jpg",
+   "training/no_tumor/image(59).jpg",
+   "testing/no_tumor/image(15).jpg",
+   "testing/no_tumor/image(49).jpg",
+   "testing/no_tumor/image(53).jpg",
+   "testing/no_tumor/image(67).jpg",
+   "testing/no_tumor/image(84).jpg"
+  ],
+  [
+   "training/no_tumor/image(26).jpg",
+   "testing/no_tumor/image(51).jpg"
+  ],
+  [
+   "training/no_tumor/image(262).jpg",
+   "testing/no_tumor/image(97).jpg"
+  ],
+  [
+   "training/no_tumor/image(264).jpg",
+   "testing/no_tumor/image(98).jpg"
+  ],
+  [
+   "training/no_tumor/image(266).jpg",
+   "testing/no_tumor/image(100).jpg"
+  ],
+  [
+   "training/no_tumor/image(268).jpg",
+   "testing/no_tumor/image(102).jpg"
+  ],
+  [
+   "training/no_tumor/image(270).jpg",
+   "testing/no_tumor/image(103).jpg"
+  ],
+  [
+   "training/no_tumor/image(272).jpg",
+   "testing/no_tumor/image(104).jpg"
+  ],
+  [
+   "training/no_tumor/image(3).jpg",
+   "testing/no_tumor/image(27).jpg"
+  ],
+  [
+   "training/no_tumor/image(31).jpg",
+   "testing/no_tumor/image(56).jpg"
+  ],
+  [
+   "training/no_tumor/image(32).jpg",
+   "testing/no_tumor/image(57).jpg"
+  ],
+  [
+   "training/no_tumor/image(325).jpg",
+   "testing/no_tumor/image(99).jpg"
+  ],
+  [
+   "training/no_tumor/image(326).jpg",
+   "testing/no_tumor/image(101).jpg"
+  ],
+  [
+   "training/no_tumor/image(33).jpg",
+   "testing/no_tumor/image(58).jpg"
+  ],
+  [
+   "training/no_tumor/image(34).jpg",
+   "testing/no_tumor/image(59).jpg"
+  ],
+  [
+   "training/no_tumor/image(36).jpg",
+   "training/no_tumor/image(46).jpg",
+   "testing/no_tumor/image(22).jpg",
+   "testing/no_tumor/image(61).jpg",
+   "testing/no_tumor/image(71).jpg"
+  ],
+  [
+   "training/no_tumor/image(37).jpg",
+   "testing/no_tumor/image(62).jpg"
+  ],
+  [
+   "training/no_tumor/image(38).jpg",
+   "testing/no_tumor/image(63).jpg"
+  ],
+  [
+   "training/no_tumor/image(39).jpg",
+   "training/no_tumor/image(7).jpg",
+   "testing/no_tumor/image(32).jpg",
+   "testing/no_tumor/image(64).jpg"
+  ],
+  [
+   "training/no_tumor/image(4).jpg",
+   "testing/no_tumor/image(28).jpg"
+  ],
+  [
+   "training/no_tumor/image(40).jpg",
+   "testing/no_tumor/image(65).jpg"
+  ],
+  [
+   "training/no_tumor/image(41).jpg",
+   "training/no_tumor/image(56).jpg",
+   "training/no_tumor/image(8).jpg",
+   "testing/no_tumor/image(10).jpg",
+   "testing/no_tumor/image(33).jpg",
+   "testing/no_tumor/image(66).jpg",
+   "testing/no_tumor/image(81).jpg"
+  ],
+  [
+   "training/no_tumor/image(43).jpg",
+   "testing/no_tumor/image(31).jpg",
+   "testing/no_tumor/image(68).jpg"
+  ],
+  [
+   "training/no_tumor/image(44).jpg",
+   "testing/no_tumor/image(21).jpg",
+   "testing/no_tumor/image(69).jpg"
+  ],
+  [
+   "training/no_tumor/image(45).jpg",
+   "training/no_tumor/image.jpg",
+   "testing/no_tumor/image(24).jpg",
+   "testing/no_tumor/image(70).jpg"
+  ],
+  [
+   "training/no_tumor/image(47).jpg",
+   "testing/no_tumor/image(72).jpg"
+  ],
+  [
+   "training/no_tumor/image(49).jpg",
+   "testing/no_tumor/image(74).jpg"
+  ],
+  [
+   "training/no_tumor/image(5).jpg",
+   "testing/no_tumor/image(29).jpg"
+  ],
+  [
+   "training/no_tumor/image(51).jpg",
+   "testing/no_tumor/image(76).jpg"
+  ],
+  [
+   "training/no_tumor/image(52).jpg",
+   "testing/no_tumor/image(77).jpg"
+  ],
+  [
+   "training/no_tumor/image(55).jpg",
+   "testing/no_tumor/image(80).jpg",
+   "testing/no_tumor/image(9).jpg"
+  ],
+  [
+   "training/no_tumor/image(57).jpg",
+   "testing/no_tumor/image(82).jpg"
+  ],
+  [
+   "training/no_tumor/image(58).jpg",
+   "testing/no_tumor/image(83).jpg"
+  ],
+  [
+   "training/no_tumor/image(6).jpg",
+   "testing/no_tumor/image(30).jpg"
+  ],
+  [
+   "training/no_tumor/image(60).jpg",
+   "testing/no_tumor/image(11).jpg",
+   "testing/no_tumor/image(85).jpg"
+  ],
+  [
+   "training/no_tumor/image(61).jpg",
+   "testing/no_tumor/image(86).jpg"
+  ],
+  [
+   "training/no_tumor/image(62).jpg",
+   "testing/no_tumor/image(87).jpg"
+  ],
+  [
+   "training/no_tumor/image(63).jpg",
+   "testing/no_tumor/image(88).jpg"
+  ],
+  [
+   "training/no_tumor/image(64).jpg",
+   "testing/no_tumor/image(89).jpg"
+  ],
+  [
+   "training/no_tumor/image(65).jpg",
+   "testing/no_tumor/image(90).jpg"
+  ],
+  [
+   "training/no_tumor/image(66).jpg",
+   "testing/no_tumor/image(91).jpg"
+  ],
+  [
+   "training/no_tumor/image(67).jpg",
+   "testing/no_tumor/image(92).jpg"
+  ],
+  [
+   "training/no_tumor/image(68).jpg",
+   "testing/no_tumor/image(93).jpg"
+  ],
+  [
+   "training/no_tumor/image(69).jpg",
+   "testing/no_tumor/image(94).jpg"
+  ],
+  [
+   "training/no_tumor/image(70).jpg",
+   "testing/no_tumor/image(95).jpg"
+  ],
+  [
+   "training/no_tumor/image(71).jpg",
+   "testing/no_tumor/image(96).jpg"
+  ],
+  [
+   "training/no_tumor/image(9).jpg",
+   "testing/no_tumor/image(34).jpg"
+  ]
+ ]
+}
